@@ -49,26 +49,45 @@ router.get('/print', function (req, res, next) {
 
 
 function setAnswerForStation(res, station, userId, answer) {
-  client.get(userId, (err, reply) => {
-    if (err) {
-      console.log(err)
-    }
+
+  try {
 
 
-    let userInfo = JSON.parse(reply)
-    console.log("Got user info ", userInfo)
-
-    userInfo[station] = answer
-    client.set(userId, JSON.stringify(userInfo), (err, reply) => {
+    client.get(userId, (err, reply) => {
       if (err) {
         console.log(err)
-        res.json({ title: "Error In Submitting Answer" });
-
       }
-      console.log("r : " + reply);
-      res.json({ title: "Update Successful" });
-    })
-  });
+      let userInfo = JSON.parse(reply)
+
+      if (userInfo != null) {
+
+        console.log("Got user info ", userInfo)
+
+        userInfo[station] = answer
+        client.set(userId, JSON.stringify(userInfo), (err, reply) => {
+          if (err) {
+            console.log(err)
+            res.json({ title: "Error In Submitting Answer" });
+
+          }
+          console.log("r : " + reply);
+          res.json({ title: "Update Successful" });
+        })
+
+
+
+      } else {
+        console.log("Could not find user ")
+      }
+
+    });
+  } catch (err) {
+    console.log(err)
+    res.json({ title: "Update Failure" });
+
+  }
+
+
 }
 
 
@@ -83,7 +102,7 @@ router.get('/stationoneanswer', function (req, res, next) {
 });
 
 router.get('/stationtwoanswer', function (req, res, next) {
-  console.log("Got new user ")
+  console.log("Got new answer for station two  ")
   console.log(req.query)
 
   setAnswerForStation(res, "a2", req.query.fingerprintId, req.query.answer)
