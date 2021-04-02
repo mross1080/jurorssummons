@@ -1,0 +1,4049 @@
+[
+    {
+        "id": "vivir_en_una_isla",
+        "name": " Vivir en una isla",
+        "data": [
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u00bfTestigos para?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Le gustaria responder la pregunta?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " S\u00ed, pero me gustar\u00eda saber de qu\u00e9 se trata?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto participativo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Cual pregunta le gustaria responder?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La isla sin fronteras, mi respuesta es No, porque habr\u00eda quedado en vano tanta lucha de nuestros pr\u00f3ceres y ser\u00eda un da\u00f1o garrafal, un retroceso para nosotros como patria.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Porque seria un retroceso?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Y cual es su nombre?\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201002-WA0008.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "Hola,buenas tardes,vi este anuncio y me gustar\u00eda obtener informaci\u00f3n sobre el mismo,c\u00f3mo participo ?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \ud83d\ude01\ud83d\ude01\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Solo tiene que mandar su respuesta por este medio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Para participar\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Entiendo,este proyecto es a favor de la unificaci\u00f3n de la isla?\ud83d\ude01\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto participativo que busca plantear estas interrogantes. El fin es investigar un poco mas la contruccion de nuestro imaginario racial dominicano\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Mi respuesta es",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Cual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Buenas tardes\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Llamada perdida\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas tarde\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Le puedo llamar? Vi unos letreros por Cutup\u00fa s\u00faper interesantes.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " A que bien. Le gustaria dar un testimonio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Me lo puede mandar por aqui\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Primero quiero conversar con usted.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Perfect\u00edsimo.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Un placer Edgar\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Fradique Lizardo es una estrella!!\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Si! Era una verdadera estrella\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Digo es, porque nunca se fue. Una muestra es lo que est\u00e1s haciendo.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \ud83d\ude4c\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Ok\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u00bfTestigos para?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Le gustaria responder la pregunta?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " S\u00ed, pero me gustar\u00eda saber de qu\u00e9 se trata?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto participativo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Cual pregunta le gustaria responder?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La isla sin fronteras, mi respuesta es No, porque habr\u00eda quedado en vano tanta lucha de nuestros pr\u00f3ceres y ser\u00eda un da\u00f1o garrafal, un retroceso para nosotros como patria.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Porque seria un retroceso?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Y cual es su nombre?\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201002-WA0008.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "Hola,buenas tardes,vi este anuncio y me gustar\u00eda obtener informaci\u00f3n sobre el mismo,c\u00f3mo participo ?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \ud83d\ude01\ud83d\ude01\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Solo tiene que mandar su respuesta por este medio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Para participar\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Entiendo,este proyecto es a favor de la unificaci\u00f3n de la isla?\ud83d\ude01\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto participativo que busca plantear estas interrogantes. El fin es investigar un poco mas la contruccion de nuestro imaginario racial dominicano\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Mi respuesta es",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Cual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Buenas tardes\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Llamada perdida\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas tarde\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Le puedo llamar? Vi unos letreros por Cutup\u00fa s\u00faper interesantes.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " A que bien. Le gustaria dar un testimonio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Me lo puede mandar por aqui\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Primero quiero conversar con usted.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Perfect\u00edsimo.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Un placer Edgar\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Fradique Lizardo es una estrella!!\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Si! Era una verdadera estrella\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Digo es, porque nunca se fue. Una muestra es lo que est\u00e1s haciendo.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \ud83d\ude4c\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Ok\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No vivir\u00eda sin fronteras.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "Rep\u00fablica Dominicana es libre y soberana . Quien no tenga documento que sea deportado y el que est\u00e9 en la ley - orden perfecto .\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "2/10/20 11:03 p.\u00a0m. - Este chat es con una cuenta de empresa. Toca para m\u00e1s informaci\u00f3n.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201003-WA0001.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Porque conoc\u00ed la verdad y la verdad me hizo libre, no puedo volver a ser esclavo de mas nadie que no sea Jes\u00fascristo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " HECTOR mercedes 41\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Nunca aceptaria la isla sin fronteras por que es una isla, no un pais \ud83e\udd37\ud83c\udffd\u200d\u2642\ufe0f considero que es una falta de respeto a la patria tan solo cuestionar eso lastima que el sistema sea tan mierda que no se encargue de personas que fomenten este tipo de cosas\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Hola\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Como estas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Quisiera saber por favor sobre el letrero\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Q habla de por q vivir sin fronteras\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Hay algun proyecto\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " O q\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto de arte participativo.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfLe gustaria dar su testimonio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Good\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No esta bn\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Solo era para saber\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " A usted\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Bonswa, paske ou menm oswa ou vle jwenn yon temwen, zile a ini, zile a se yon s\u00e8l peyi, e nou gen kontw\u00f2l nan peyi sa a, nou gen plis pase ou ak anpil te tonbe epi yo pral tonbe plis, si ou pa kite nou dwe kalm nan  peyi sa.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Bonswa, koman ou ye, yon kesyon poukisa nou ka viv isit la nan DR, ak yon fwonty\u00e8 ouv\u00e8 nou yo, se pou move, mwen konnen ke gen anpil fr\u00e8 move ak endesan, men se pa nou tout ki tankou sa a, mwen ap viv isit la ak mwen se yon mekanisyen ak mwen ap viv tr\u00e8 byen ak  Mwen pa janm te gen yon pwobl\u00e8m ak Dominiken yo, sou kontr\u00e8 a, yo ede m 'anpil Ami nan tout, yon kesyon tou se ak ONG ki nan Nasyonzini an ki ap domaje peyi sa a pou yo vin pi rich e nou pi p\u00f2v, sonje ke Nasyonzini an ak Clinton nan s\u00e8lman  Yo te vol\u00e8 nou e kounye a yo vle fini ak peyi sa a, si ou se ayisyen oswa ayisyen, ou konnen tr\u00e8 byen ki jan bagay yo ye, nou w\u00e8 anpil Ayisyen ke nou ap jwenn fizyon an ak jwenn enf\u00f2masyon sou ONG yo ki ap f\u00e8 lajan nan depans lan nan Dominiken yo ak  Ayisyen, yo te demanti ras yo ak peyi yo pou anyen mwen se Ayisyen e mwen pa refize ras mwen, mwen santi mwen tr\u00e8 byen e mwen tr\u00e8 rekonesan pou sa yo te f\u00e8 pou mwen, men si gen yon batay isit la gen apepr\u00e8 5000 Ayisyen ki pral goumen  ansanm ak peyi sa a an fav\u00e8  e RD, mwen pa diy Moyiz jwif ni ou pa abandone tout moun epi li v\u00f2l\u00e8 tout lajan nan men nou ak ONG yo tou, gen yon gwoup nan Cape HAITIANS ki pa vle rantre peyi sa a ak Ayiti, pa gen manti ank\u00f2.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " bon m\u00e8si pou temwayaj ou. ki jan ou rele ak laj?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Mwen gen 48 lane e mwen se Juana Mendez epi ou se dominiken oswa ayisyen oswa ki kote ou soti, mwen pa dak\u00f2 ak sa k ap pase ak peyi sa a\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " gade pwofil mwen epi ou pral w\u00e8 lapenn pou pitit gason m 'ke yon compaisano mwen touye l' yo vol\u00e8 l ', epi ki te f\u00e8 konfyans, nou rayi nan mond lan pou zak sa yo nou f\u00e8 san pitye, mwen se ayisyen epi mwen pa janm ap refize ras mwen, men mwen gen  lavi mwen isit la e mwen gen anpil zanmi dominiken ki te s\u00e8l bagay mwen te w\u00e8 antere pitit gason m ', mwen pa t' w\u00e8 okenn compaisano nan aktivis sa a ki se s\u00e8lman f\u00e8 yon milyon\u00e8 pa f\u00e8 domaj\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Mwen regr\u00e8t anpil pou pitit gason ou lan. M\u00e8si anpil paske ou bay temwayaj ou\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " non mwen se joseph mene Michelle e sa ki pou ou a, tanpri pa itilize nou anko vini k\u00f2m \u00e8d epi s\u00e8lman \u00e8d la se pou ou menm ak ONG ou, nou pa dominiken, nou se ayisyen, wete sa nan t\u00e8t ou, li se yon bagay ki tr\u00e8 absoli kw\u00e8 ke  Mwen menm, k\u00f2m yon ayisyen, mwen pral dominiken, ONG yo te ranpli ak d\u00e8 milyon moke lanm\u00e8 nou an, yon s\u00e8l ke prezidan nou an ap pote soti v\u00f2l\u00e8 lajan nou yo ak voye yon moun nan l\u00f2t peyi yo dwe dep\u00f2te nan DR la, ak L\u00e8 sa a, yo gen ban nou papye l\u00e8  K\u00f2m prezidan, ou pa f\u00e8 anyen, jis v\u00f2l\u00e8 epi pale manti, poukisa Repiblik Dominik\u00e8n ou dwe ban m 'papye si mwen se ayisyen, se devwa prezidan mwen an ban m' dokiman mwen epi yo pa f\u00e8 sa l 'ap f\u00e8, moise se yon charlatan, se pout\u00e8t sa pa  Nou vle li, Ayiti dwe rekonstwi e Nasyonzini ak Clinton pa vle sa kontinye v\u00f2l\u00e8 la.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Si se menm bagay la, nou rayi nan mond lan pou sa nou f\u00e8 e nou pa aksepte jan nou ap ch\u00e8che yon bagay epi pran li nan men l\u00f2t moun, gade kijan nou menm Ayisyen ap touye moun nan peyi sa a pou k\u00e8k ONG vin rich e nou ladan, li bay  wont ak wont ke yo itilize nou konsa\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Esto no tiene nada que ver con una ONG. No divulgare su informacion\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Ok\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201003-WA0000.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "Entonces usted una de las persona que cree que va poder funcionar la isla? Se equivoc\u00f3 medio a medio este pueblo no va a volver a vivir los genocidios que provoc\u00f3 el pueblo haitiano.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Gracias a Usted por abrirnos m\u00e1s los ojos\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfA cuales genocidios se refiere?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfcual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Esa campa\u00f1a que usted est\u00e1n haciendo ya el pueblo Dominicano se la sabe ,este pueblo es el pueblo m\u00e1s acogedor que hay por eso el abuso hacia nosotros ,lo m\u00e1s que yo le voy a decir es que Dios le bendiga y que este pueblo no va a volver a ser gobernado ni esclavizado nuevamente\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfPero cuales genocidios cometieron los haitianos dn contra de nosotros los dominicanos?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Vuelvo y te digo el plan de ustedes ya no los sabemos no quieran disfrazar la historia\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Que Dios juzgar\u00e1 a cada quien seg\u00fan sus obra\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y termin\u00e9 con usted ah\u00ed\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfPero cual es la historia de la que habla?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Que tenga excelente dia\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y tenga temor de Dios\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Yo soy profesor de historia es lo \u00fanico que le voy a decir \ud83d\ude4c\ud83c\udffd\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenisimo. En donde?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfPor eso me interesa saber a cuales genocidios se refiere?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Usted lo sabe con el simple hecho de esclavizar un pueblo por 22 a\u00f1os eso de los poco que se hizo y todav\u00eda siguen cometiendo barbaries en esta fecha contra el pueblo Dominicano\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Yo tenia entendido que toussaint fue que hizo la abolici\u00f3n de la esclavitud en RD. \u00bfUsted conoce esa historia?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No usted la conoce? Porque esa historia de la que usted habla s\u00f3lo se la compra ustedes\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No piense que la historia la van a cambiar demasiada sangre inocente derramaron nuestro patriota para volver a caer y a que se repita la historia\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Lea un poco mejor y no quieran poner donde no hay\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " De quien fue que el pueblo Dominicano se liber\u00f3?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " De M\u00e9xico o de Venezuela o de puerto rico?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Fue de haiti\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y la cosa no se va repetir nuevamente\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Asi que su historia inventada no le va funcionar\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " O se le olvid\u00f3 a usted la masacre desde 1805 hasta 1844 y que hoy en adelante contin\u00faa en contra del pueblo Dominicano?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Buenos Dias, vi su propagandaz estoy de vacaciones en el pais y me gustaria saber de que se trata\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \ud83e\udd14\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201003-WA0002.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Usted sabia que esto es conspiraci\u00f3n\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfComo conspuiracion?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Nis gustaria saber cual es el objetivo y quien esta financiando esto\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfLe gustaria dar su testimonio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Antes de dar mi testimonio ne gustaria saber\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Con quien hablo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y de que se trata\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Todo esto\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Usted cree que con la situaci\u00f3n de tensi\u00f3n que se esta viviendo en nuestro pais\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Esta propaganda fusionista no atenta en contra de la estabilidad y soberania de nuestro pais\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " ?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto participativo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Con que objetivo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Que trata de creer estas cuestionantes. Esta es uno de una series de preguntas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y quien lo organiza\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Con el objectivo de investigar el imaginario racial dominicano\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Soy una artista\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Imaginario?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y que tiene que ver eso\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Con nuestra soberania, leyes migratorias y los haitianos?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfUsted cree que no tiene que ver?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Si nuestra construccion del concepto racial\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No es una construcci\u00f3n\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Hay 3 razas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y los dominicanos somos un sincretismo de ellas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Por eso nos identificamos por nuestra nacionalidad\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " El color de piel no definde tu identidad\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Es imposible ya q nuestras familias son mestizas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Me imagino que es de el grupo de ONGs que anda conspirando en contra de nuestra nacion y difamandonos a nivel internacional\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Este proyecto no tiene que ver con ninguna ONG\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Soy dominicana y me interesa investigar ese sincretismo del que usted habla\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfusted cree que los dominicanos no vemos el color de piel?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Hay muchisima informaci\u00f3n sobre eso\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfSi?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Si los dominicanos miraramos color de piel no fu\u00e9ramos un pais mestizo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Todav\u00eda no entiendo que tiene que ver todo esto con nuestra frontera\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " A ti alguien te financia\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y esta propaganda es ilegal\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Viola nuestras leyes y constituci\u00f3n\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Antes preocup3se por conocer su historia\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Identidad\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Leyes\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y constituci\u00f3n\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Tu pasaporte dice Dominicana\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No taina, negra, ni blanca\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Hay un documental\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Sobre nuestro simcretismo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " De el centro de estudios dominicanos en ny\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfcual documental?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Voy a buscar fragmento q tengo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Bueno muchas gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Para enviartelo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No lo tengo completo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Te doy un consejo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Esta propaganda te puede llevar q la carcel\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Es ilegal y puede ser tomado como conspiraci\u00f3n\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "3/10/20 4:12 p.\u00a0m. - +56 9 3055 5085: Yo no quiero vivir en un pa\u00eds sin frontera\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "3/10/20 10:47 p.\u00a0m. - +56 9 3055 5085: Jos\u00e9 de la rosa 49\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Con respecto a esto. \u2b07\ufe0f\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201005-WA0000.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Solo te dir\u00e9 que inventa con otra cosa y deja de joder mudate para Hait\u00ed tu si te da ti real gana HDLGP.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Este es su testimonio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Va a la M le dije\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Que pase buen dia\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " K es esto\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Que son esos letreros\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Los letreros son un proyecto de arte participativo.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfLe gustaria dar su testimonio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual pregunta vio usted?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfY cuales son los hechos historicos a los cuales usted se refiere que no mienten?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias por su testimonio. Espero que no haya un guerra como dice y podamos vivir en paz.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Joan\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " 29 a\u00f1os\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Mi repuesta es, Si.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfcual pregunta esta contestando?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Sobre una Isla,sin fronteras.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias. \u00bfPor qu\u00e9 dice que si?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La misma pregunta,le responde.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Preguntaron,si me gustar\u00eda vivir en una Isla,sin fronteras.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Mi repuesta es,Si.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfPero porque le gustar\u00eda?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Pues,por que as\u00ed tendr\u00edamos un solo pa\u00eds..en esta isla.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfY como cree usted que eso afectaria la construccion y el concepto racial en nuestro pais?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Todo lo contrario..entiendo que en vez de afectar,ser\u00eda una soluci\u00f3n salom\u00f3nica a el problema de el racismo.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Frandy Revi..44 a\u00f1os.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " AM\u00c9N.\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No. No quiero por ninguna raz\u00f3n vivir en una isla sin fronteras. \n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "La Rep\u00fablica Dominicana no se independiz\u00f3 de Espa\u00f1a, de Francia o Inglaterra, nos independizamos de Hait\u00ed, luego de 22 a\u00f1os de asesinar, violar nuestras mujeres y tratarnos peor que esclavos y animales. Eliminar la frontera es perder nuestra identidad, regresar a tiempos salvajes, perder lo civilizado, lo educado, lo decente, la moral. No es asunto de razas, es de comportamiento, es de historia, es de la autoestima de una naci\u00f3n. Yo maldigo los hombres que abrieron nuestra frontera al machete haitiano de nuevo. En la provincia Espaillat hemos perdido grandes ejemplos de trabajo y honestidad en manos de un machete haitiano, sin esperanza de que se haga justicia por el asesinato cruel y despiadado de nuestro agricultores, peque\u00f1os y medianos empresarios. Hoy se retuercen los huesos en las tumbas de los que dieron sus vidas por hacer de nuestra media isla una REPUBLICA INDEPENDIENTE.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "17/10/20 8:20 p.\u00a0m. - Este chat es con una cuenta de empresa. Toca para m\u00e1s informaci\u00f3n.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfDonde aprendio usted esa historia de las violaciones a nuestras mujeres, asecinatos, y que los haitianos nos trataban coml esclavos?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Libros de historia no mancillados por los pol\u00edticos corruptos que ha reescrito la historia manipulando el ministerio de educaci\u00f3n y los autores de los nuevos textos. Poseo los libros.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Gracias! \u00bfSeria tan amable de mandarme una foto de la portada de los libros que habla? Me interesa leerlos para la investigaci\u00f3n\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No, esa informaci\u00f3n hoy es clasificada. As\u00ed como mi identidad.mi familia en RD no ser\u00e1 perseguida por los corruptos, ni por unionistas. Tenga buen d\u00eda. Ya obtuvo una respuesta.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas para aclarar esto no tiene nada que ver con partidos politicos ni con ningun movimiento unionista.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Esto es un proyecto de arte participativo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfDonde vio usted esta pregunta?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " https",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Deseo gusto editando la Wikipedia si desea. Lo volver\u00e9 a corregir.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfPero esto es usted que lo esta editando?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " https",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201121-WA0000.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Es una Falta de respeto hacer este tipo de preguntas  creo que a nosotros los dominicanos nos no interesa la isla sin Frontera los queremos aparte ningunos de esos haitianos tienen educaci\u00f3n tampoco viven como esclavo porque ellos prefieren entrar al pais ilegal mientras que nosotros para llegar  Haiti obligado tenemos que tener pasaporte. Ning\u00fanos de nosotros podemos entrar aya sin pasaporte pero ellos aqui entran cuando le dan su maldita gana. Quieren una maldita uni\u00f3n si la quieren vallan ustedes para aya lo que quieran irse Dejen nuestra frontera dividida que ellos entran al pais hacer y deahacer Cojen las caller ocupando espacio sin permiso. Y lucharemos para que la Frontera noce quite Y tambi\u00e9n se vallan para su pais y que no entren aqui si no tienen pasaporte. Que ellos aqui si pueden venir a hacer cosas ilegales pero nosotros alla no. Asi que lucharemos no queremos uni\u00f3n. Y ellos no son esclavo aqui porque a ellos nadie lo amenaza con un arma para que trabajen ellos lo hacen porque quieren. Hagan esa uni\u00f3n con otro pais. No la hacen porque no lo aceptan en ning\u00fan lao. Lucharemos sin descanzo Cero uni\u00f3n\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Buen d\u00eda\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buen dia\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Me gustar\u00eda  responderle la pregunta\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Que ustedes tienen en la calle\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual pregunta quiere responder?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201121-WA0001.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Quiero saber con que fin es esa pregunta\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto de arte participativo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Ok\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfDesea dar su testimonio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Si\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " lo puede hacer por este medio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Si\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas, gracias por participar en \u00a1Se buscan testigos! Queria saber si podriamos ense\u00f1ar su respuesta como parte de la plataforma que estara en la exhibici\u00f3n del proyecto en el Centro Le\u00f3n Jimenez en Santiago. Por favor me deja saber sobre su consentimiento. \u00a1Muchas Gracias!\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Buenas..yo voy a tener que hablar de ese tema en p\u00fablico\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Ok. Puede ir a ver la exposicion cuando este abierta\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200ePTT-20201121-WA0007.opus (archivo adjunto)\n",
+                    "msg_file_type": "audio"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u200ePTT-20201121-WA0011.opus (archivo adjunto)\n",
+                    "msg_file_type": "audio"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200ePTT-20201121-WA0015.opus (archivo adjunto)\n",
+                    "msg_file_type": "audio"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Gracias\n",
+                    "msg_file_type": "text"
+                }
+            ]
+        ]
+    },
+    {
+        "id": "colon",
+        "name": " Col\u00f3n",
+        "data": [
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Llamada perdida\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Hola\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Como le va?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Bien\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias por el testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Una ultimo pregunta\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Porque la \u00faltima?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfComo cree usted que esta historia que nos dicen de cristobal col\u00f3n afecta el imaginario racial de nosotros?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Eso no fue un testimonio primeramente\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Activaste los mensajes temporales. Los mensajes nuevos desaparecer\u00e1n de este chat despu\u00e9s de 7 d\u00edas. Toca para cambiar esto.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Digame\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Desactivaste los mensajes temporales. Toca para cambiar esto.\n",
+                    "msg_file_type": "text"
+                }
+            ]
+        ]
+    },
+    {
+        "id": "la_virgen_de_las_mercedes",
+        "name": " La Virgen de las Mercedes",
+        "data": [
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201001-WA0000.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Hola, sobre esto quiero dar mi respuesta pero a cambio quiero que te comprometas a compartir los resultados finales conmigo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Hola buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Si, claro los resultadod finales estar disponibles para el p\u00fablico\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Cual es su nombre?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Katherine Fern\u00e1ndez\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Un placer Katherine\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Cual es tu testimonio al respecto de la pregunta\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " 1. Obviamente no creo que eso haya ocurrido, sino m\u00e1s bien es un relato para reforzar en la poblaci\u00f3n que hab\u00eda un tipo de persona, con unas costumbres y creencias espec\u00edficas que si eran las validadas por las divinidades. Los ciudadanos de primera. Los que s\u00ed val\u00edan. Un relato que se aprovechaba de la ignorancia de la gente para mantener la hegemon\u00eda de los reyes y los blancos.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Adem\u00e1s, como el catolicismo es muy europeo (sin entrar en detalles en sus verdaderas ra\u00edces) claramente, de existir, la virgen como humana que era originalmente, no se salva de ser v\u00edctima del tribalismo del que somos todos los humanos. O sea, que de creer que fuera cierto, yo s\u00ed creer\u00eda que ella proteger\u00eda a los espa\u00f1oles (los suyos) que a unos tainos que adoraban a otros dioses\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Quien sabe, quiz\u00e1s la Virgen hasta medio xenofoba fuera o nacionalista.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Bueno, entonces como crees que esto afecto al concepto y entendimiento de la raza que tenemos nosotros los dominicanos?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La blanquez sigue siendo la ideolog\u00eda dominante. Incluso aquello de ra\u00edces africanas (Gaga, santer\u00eda, tambores) lo pensamos m\u00e1s cercano a esa religi\u00f3n e idiosincrasia blanca. Preferimos creer que Santa Martha es una santa cat\u00f3lica y no \u00c1frica. Que la santer\u00eda y el vud\u00fa son cosas muyyyy diferentes. Que no somos negros, sino morenitos, solo ah\u00ed se acepta cierta mezcla. Despu\u00e9s...\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchisimas gracias!\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Esto es parte de un proyecto de arte participativo que investiga el imaginario raciam dominicano. Mi nombre es Lizania Cruz\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Tu eres dominicana? Y que edad tienes? Si te sientes comodes compartiendo?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Gracias Lizania\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Soy Dominicana, tengo 30 a\u00f1os\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " *racial\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Pregunta, curiosidad, porque el letrero y no google form, por ejemplo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buena pregunta. Me interasa poner estas cuestionantes en el espacio publico\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Y no estoy concretamente (todavia) buscando analizar las respuestas. Mas bien dar un espacio para que las personas respondan\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Ok. Super. Mucha suerte! Y espero ver pronto esto.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Si! Compartire mas informacion pronto\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \ud83d\ude4c\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Saludos\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Usted estaba interesado en dar un testimonio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Quiero saber por qu\u00e9 hizo esa pregunta\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " A cual pregunta se refiere? Digo cual vio usted?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201001-WA0000.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto de arte participativo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " De parte de una organizaci\u00f3n religiosa?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " No, es personal mio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Cu\u00e1l es tu nombre?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Lizania. Y el suyo?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Lizania, deme su Instagram, si tiene\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Alberto\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " No tengo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Alguna red social?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Para que lo quiere?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Para ver si es en serii\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Serio*\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \ud83d\ude43 si. Proximamente podre compartir mas sobre el proyecto\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Pero seria bueno que participe y de su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200ePTT-20201001-WA0001.opus (archivo adjunto)\n",
+                    "msg_file_type": "audio"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u200ePTT-20201001-WA0002.opus (archivo adjunto)\n",
+                    "msg_file_type": "audio"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u00bfCu\u00e1ntos a\u00f1os tiene?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " 37 y usted?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200ePTT-20201001-WA0003.opus (archivo adjunto)\n",
+                    "msg_file_type": "audio"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200ePTT-20201001-WA0004.opus (archivo adjunto)\n",
+                    "msg_file_type": "audio"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \ud83d\ude4c\ud83c\udffe\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias. Cuando tenga mas informaci\u00f3n donde pueda ver el proyecto lo compartire\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Usted vive en la vega?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " En que parte vive si no le molesta compartilo?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Prefiero reservarlo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u00bfUsted vive en La Vega?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " No hay problema\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201001-WA0005.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u00bfQuiere que le responda esa tambi\u00e9n?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Si! Claro\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " ?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " No. En estos momentos vivo fuera del pais\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u00bfY a qu\u00e9 se dedica?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " ?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Soy artista\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200ePTT-20201001-WA0007.opus (archivo adjunto)\n",
+                    "msg_file_type": "audio"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u200ePTT-20201001-WA0008.opus (archivo adjunto)\n",
+                    "msg_file_type": "audio"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200ePTT-20201001-WA0009.opus (archivo adjunto)\n",
+                    "msg_file_type": "audio"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200ePTT-20201001-WA0010.opus (archivo adjunto)\n",
+                    "msg_file_type": "audio"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y equidad me falt\u00f3 decir\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Yo pienso igual. Por eso hago estos tipos de interrogantes\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200ePTT-20201001-WA0011.opus (archivo adjunto)\n",
+                    "msg_file_type": "audio"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Entiendo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u200ePTT-20201001-WA0012.opus (archivo adjunto)\n",
+                    "msg_file_type": "audio"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Entiendo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Nuestra isla ha sufrido una fuert\u00edsima divisi\u00f3n racial, el pueblo dominicano no es consciente de lo racista que es y es algo que lleva bien dentro\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Te deseo suerte\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u00bfQu\u00e9 tipo de arte haces?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Totalmente\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Arte participativo, contemporaneo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Voy a investigar qu\u00e9 es porque no estoy al tanto\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Le mandare mas informacion pronto.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Sobre el proyecto y ahi puede ver las otras cosas que hago\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Me parece bien\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Puede tutearme, se siente inc\u00f3modo que me hable de usted\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Ok!\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias por la conversaci\u00f3n\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " A la orden\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201001-WA0000.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " A qu\u00e9 se debe esto\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas. Si desea puede dar su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Es que lo que yo entiendo es que los espa\u00f1oles la eligieron ellos, en el sentido de que ellos llevaban un cuadro de ella y ante todo lo que les pas\u00f3 entend\u00edan que ella fue su ayuda y los ind\u00edgenas no son creyentes de eso\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y como tal los protegi\u00f3\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Bueno y siendo los indigenas nativos de nuestra isla y los espa\u00f1oles no, cree usted que esa historia es justa?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Es que los Espa\u00f1oles llegaron en pocas palabras por error. Y la falta de fe lamentablemente quiz\u00e1s es el problema\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Pero si la virgen se rige por el amor al progimo. Como abandono a los indeginas que estaban en su lugar nativo?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y es asi el amor al pr\u00f3jimo es lo esencial pero sabes que tenemos la libertad de elegir, si elijo el camino del mal le doy poder al mal. Los ind\u00edgenas no ten\u00edan creencias ten\u00edan dioses distintos al Dios real\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Bueno, gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Una ultima pregunta\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " entonces como cree que esta idea afecto al concepto y entendimiento de la raza que tenemos nosotros los dominicanos?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Bueno quiz\u00e1s hubo confusi\u00f3n en muchas cosas y como tal se sigue la misma pr\u00e1ctica de confusi\u00f3n. Porque cada cual ha buscado la forma de interpretar a su manera\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " A la orden\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Con qu\u00e9 fin es eso?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto de arte participativo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No divulgan mi n\u00famero?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " No. No se preocupe\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias por contestar\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Siempre\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Una ultima pregunta- cual es su nombre?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Lucy\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Siempre\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Hola\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u00bfTodav\u00eda est\u00e1n haciendo la encuesta sobre la Virgen de las Mercedes?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00a1si! \u00bfDesea dar su testimonio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Bueno, no es un \u201ctestimonio\u201d per se, porque no estaba ah\u00ed... pero mi opini\u00f3n.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Ok\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La religi\u00f3n cristiana y la pr\u00e1ctica cat\u00f3lica fueron parte esencial de la estructura colonial espa\u00f1ola.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Incluso los reyes en ese tiempo eran \u201creyes cat\u00f3licos\u201d y el poder se asum\u00eda en nombre de Dios.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La narrativa de la protecci\u00f3n de Mercedes ha sido propaganda cat\u00f3lica para justificar el exterminio indiscriminado de ind\u00edgenas, \u201cen nombre de Dios\u201d, as\u00ed como hicieron en las cruzadas y la Inquisici\u00f3n.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " En un eco \u201cmoderno\u201d a las luchas del antiguo testamento en que Dios estaba de parte del pueblo jud\u00edo y contra los filisteos, cananeos, etc.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Y como cree que esta historia/narrativa afecto al concepto y entendimiento de la raza que tenemos nosotros los dominicanos?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " El que tiene el dinero, narra el cuento.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La base del capitalismo euroc\u00e9ntrico fue la explotaci\u00f3n de las tierras y los cuerpos de las Am\u00e9ricas, que comenz\u00f3 con los pueblos originarios y luego con el secuestro y la trata trasatl\u00e1ntica de m\u00e1s de veinte millones de personas.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Incluso Bartolom\u00e9 De las Casas, que reprendi\u00f3 la explotaci\u00f3n ind\u00edgena en su famoso serm\u00f3n de adviento (\u201cAcaso no tienen almas... \u00bfcon qu\u00e9 derecho y con qu\u00e9 justicia.... _ego vox clamantis in deserto_...\u201d), sugiri\u00f3 que se les reemplazara por personas negras.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La visi\u00f3n euroc\u00e9ntrica- ultracapitalista del mundo actual a\u00fana raza, cultura y religi\u00f3n, poniendo a lo europeo como superior y todo lo dem\u00e1s como \u201calternativo\u201d, \u201cex\u00f3tico\u201d, \u201c\u00e9tnico\u201d, etc.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Aun hasta el d\u00eda de hoy, las desigualdades entre el Norte y el Sur global existen y tienen ra\u00edces profundas en los siglos de explotaci\u00f3n, esclavizaci\u00f3n y saqueo del Sur por parte del Norte.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchisimas gracias por participar\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Gracias a ustedes.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Ansel, 30 a\u00f1os.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Gracias.\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Porque la historia la escribieron los espa\u00f1oles, que querian \"civilizar\" a un pueblo pac\u00edfico, naturalista. Toda una civilizaci\u00f3n que se expand\u00eda pacificamente por las islas del caribe fue masacrada por no aceptar una religi\u00f3n impuesta por unos violadores/atracadores/ladrones que se hicieron llamar \"cristianos\".\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfY como cree usted que esta historia afecta la construccion y el concepto racial en nuestro pais?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Uf. \n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "Pues eso empieza por hacernos perder un sentido de identidad, de no tener algo realmente nuestro a lo que aferrarnos. Y lo poco nuestro que podamos encontrar, despreciarlo y rechazarlo.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "El complejo de inferioridad con que vivimos, de que todo lo extranjero debe der mejor, viene precisamente por ah\u00ed.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Esto incluyendo por supuesto el color de piel.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Es complicado hablar de racismo en este pa\u00eds, pero es obvio que se idolatra la piel blanca. Y segmentamos los colores de piel en una infinidad de tonos donde mientras m\u00e1s oscuro m\u00e1s discriminado. Todo esto es hist\u00f3rico.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfcual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Salvador....36\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Te puedo preguntar de que se trata esto?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Si claro\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto de arte participativo que investiga nuestro imaginario racial\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfDonde vio usted los carteles?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " wow. genial!\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " en el story de una amiga en instagram...la curiosidad me mato y decidi escribir.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \ud83d\ude00 gracias por escribir\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Siempre! donde puedo enterarme de como termina esto?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Te puedo pasar mas informacion cuando la exposicion abra\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Buenas tardes\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Cual es la finalidad de la promoci\u00f3n sobre la Virgen y el descubrimiento\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " ?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto de arte participativo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfDesea dar su testimonio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Bueno, eso tiene matices religioso-pol\u00edtico-social\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Pero para empezar no creo que haya aparecido una Virgen. Eso fue invento de los curas que vienen con la colonizaci\u00f3n\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " En cada regi\u00f3n se inventaron eso para meter miedo a los habitantes originarios de estas tierras\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfY como cree usted que esta historia afecta la construccion y el concepto racial en nuestro pais?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Es una historia muy larga! Je\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No, disculpa, m\u00e1s bien ten\u00eda curiosidad porque camino de Moca a la Vega vi mucha propaganda.\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Bueno se debe reconocer, que a los Espa\u00f1oles y Cristobal Colon,eran muy creyente a las cosas de Dios, es decir eran enviado por los Reyes Cat\u00f3licos y ten\u00edan fe a la forma de c\u00f3mo nuestros Dios se manifestaba con ellos en sus traves\u00edas por los mares, pues para esa noche del a\u00f1o 1495, estaba planeado un ataque masivo contra los espa\u00f1oles,por partes de los ta\u00ednos enemigos,en la batalla prevista a El Fuerte del Santo Cerro , los Ta\u00ednos se percataron al parecer de esta Cruz simb\u00f3lica que Colon hab\u00eda plantado all\u00ed, y quiz\u00e1s ellos pensaron c\u00f3mo Tal, estos es una especies de Dioses, y de ah\u00ed trataron de derribar y quemar dicho s\u00edmbolo el cual no lograron, pero seg\u00fan Juan Fray Infante este era uno que pertenec\u00eda a una c\u00fapula vocacional de la Orden Mercedarias por la iglesia Cat\u00f3lica, y que el mismo fue testigo de tan hermoso evento que pudo ver seg\u00fan \u00e9l, la aparici\u00f3n de una luz blanca que envolv\u00eda la Cruz, y de paso el descenso de una Se\u00f1ora con ni\u00f1o en brazo, que se postr\u00f3 en la Cruz, y que el pens\u00f3 por su fe, que fue una manifestaci\u00f3n de Dios para poder librar esa gran batalla sangrienta en contra de su gentes, entonces los ta\u00ednos trataron de derribar dicha Cruz y por m\u00e1s esfuerzo que esto hac\u00edan era m\u00e1s imposible hasta tal punto que tuvieron que marcharse y as\u00ed los espa\u00f1oles libraron esa gran batalla, con la aparici\u00f3n de la Virgen de  las bendiciones c\u00f3mo le fue llamada en ese entonces!!!\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfY como cree usted que esta historia afecta la construccion y el concepto racial en nuestro pais?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Pues para mi, podr\u00eda valorar de diversas maneras los que pudo  afectar este acontecimiento, y que por esta manifestaci\u00f3n activa de diversos grupos raciales como los ind\u00edgenas y dem\u00e1s afrodescendientes , jugando estos un papel muy activo en cuanto a los \u00e1mbitos social y pol\u00edtico de la \u00e9poca en que se dio este evento y que requiere de estad\u00edstica e informaci\u00f3n de manera confiable entre estos grupos raciales\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfY cree que esto tiene alguna tracendencia actual eb nuestro pais?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " C\u00f3mo podemos ver de que la RD en cuanto a cultura , posee una especie de fundamento basado en formaci\u00f3n racial, y que supongo de que a partir de ellos se ve la nesecidad del criollo poder adaptarse a un tipo de h\u00e1bitat de donde vive, llevando un medio de transculturacion que ya viene desde tiempo de la espa\u00f1ola, mezclando abor\u00edgenes as\u00ed como africanos, pero adem\u00e1s aqu\u00ed en nuestros pa\u00eds ya esas clases culturales y alg\u00fan rasgo racial han desaparecido, y no tienen que ver nada con los espa\u00f1oles, porque hace ya unos 500 a\u00f1os que transistaron por nuestros territorios dej\u00e1ndonos a nosotros solamente ser hospitalarios y lleno de valores de manera muy positiva\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfasi que usted ve la colonizaci\u00f3n de los Espa\u00f1oles de manera positiva?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Bueno, por las dimensiones de los grupos etnicos raciales y esa mezcla mestiza que nos caracteriza, dir\u00eda que debi\u00f3 de pasar para que hoy fu\u00e9ramos razas desde un punto de partida como fue la colonizaci\u00f3n\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias por su testimonio.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Rafael D\u00edaz G\u00f3mez. 50\n",
+                    "msg_file_type": "text"
+                }
+            ]
+        ]
+    },
+    {
+        "id": "personas_esclavizadas",
+        "name": " Personas Esclavizadas",
+        "data": [
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La \u00fanica esclava en mi pa\u00eds es tu abuela , rata salnosa que busca dividir mi pa\u00eds.  Dios, patria y libertad. Patria o muerte\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas noche\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Buenas tardes \"Proyecto Participativo\"\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "Voy a contestar sus dos preguntas desde mi perspectiva como dominicano.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "1- No exite calidad de esclavitud en la Rep. Dominicana.  Los inmigrantes solicitan trabajo en las diferentes fincas de nuestros campos y se mudan all\u00ed con toda su familia y no pagan servicios p\u00fablicos, no pagan alquiler y aun as\u00ed reciben su remuneraci\u00f3n econ\u00f3mica pautada con su empleador. Ese inmigrante puede irse cuando guste. Sin embargo muchos de ellos terminan robando violando y hasta asesinando a sus empleadores.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "2- No estar\u00eda dispuesto a vivir en una isla sin fronteras.  Rep\u00fablica Dominicana comparte esta isla con otra naci\u00f3n, con  la cual no compartimos idioma, cultura, religi\u00f3n y modo de vida y que la misma no suele cambiar sus costumbres.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "-- Lamentablemente no existe testigos reales para eso que preguntas. \n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "Pero si desean crucen la frontera y encomtraran muchos esclavos y muchas personas que quisieran que no existiera frontera.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " La pregunta se trata sobre las personas esclavizadas que trajeron los espa\u00f1oles despues que colonizaron nuestra isla\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " De esa esclavitud, \u00bfque sabe usted?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Sobre la pregunta no especifica esos datos que usted ofrece ahora, dejando la posibilidad de tomar el tema m\u00e1s actual.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Se lo que dicen los libros de Historia\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La causa de traer a los africanos esclavizados a la las Am\u00e9ricas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " El punto de la pregunta es que se responda como usted la entienda. Tecnicamente la esclavitud no existe en nuestro pais. Un Haitiano Toussaint fue quien declaro su abolici\u00f3n\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y someti\u00f3 a la esclavitud a los criollos...interesante.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfComo a los criollos? Me interesa aprender mas sobre esa historia\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfMe puede mandar algun libro referente que hable de esto?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La esclavitud de esa \u00e9poca era un m\u00e9todo comercial y de producci\u00f3n usada por casi todas las naciones de es tiempo. Uma forma cruel que las naciones, pueblo y tribus utilizaron para hacer crecer su poder\u00edo y someter incluso hasta el exterminio a una poblaci\u00f3n de otra etnia.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No sabe usted quienes eran los criollos?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No tengo a mano una referencia, pero si estudia la historia de la colonizaci\u00f3n de las Am\u00e9ricas se dar\u00e1 cuenta que los criollos no son mas que los hijos de los espa\u00f1oles que nacieron en est\u00e1s tierras, los cuales fueron sometidos a la degradaci\u00f3n en los 22 a\u00f1os de invasi\u00f3n desde 1822 al 1844. Samado a ellos tambi\u00e9n sufrieron bastante los mulatos y los pocos mestizos de la isla, al punto que no pod\u00edan tener estudios universitarios,  hablar su lengua maternal, tener rango militar,  ocupar lugares en la cosa p\u00fablica entre otras cosas.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Un libro que te puede arrojar un poco de luz de la historia dominicana es el Manual de Historia Dominicana de Fran Moya Pons. Y las desvastaciones de Osorio que fue pr\u00e1cticamente el motivo por el cual existen don pa\u00edses y no uno. (Error Espa\u00f1ol)\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00a1Muchas gracias!\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCuales es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Jes\u00fas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " 39 a\u00f1os\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u00bfsabias que la poblaci\u00f3n dominicana en 22 a\u00f1os de ocupaci\u00f3n se redujo casi a la mitad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u00bfSabias que como isla es imposible que pudi\u00e9ramos sobrevivir como un solo pa\u00eds si uno no asimila al otro? Eso es en otras palabras la desaparici\u00f3n de una de las culturas que existe.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " No se si estoy de acuerdo con lo que dice. Pero gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No es cuesti\u00f3n de estar de acuerdo,  es que es la realidad.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Solo investigue un poco y lo ver\u00e1,  es un ejercicio sencillo.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Pero la utop\u00eda de la unificaci\u00f3n de la isla no es posible.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " El sue\u00f1o no es mutuo lamentablemente.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Esto es parte de mi forma de investigar\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \ud83d\udc4d\ud83c\udffd\n",
+                    "msg_file_type": "text"
+                }
+            ]
+        ]
+    },
+    {
+        "id": "mangu",
+        "name": " Mang\u00fa",
+        "data": [
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Saludo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Es con respeto a unos letrero ke bi a blando del mangu y lo negro y kisiara saber ake se re fieren\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto de arte participativo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfLe gustaria dar su testimonio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Ok pero mi testimonio sobre ke\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Sobre que sabe usted sobre las personas esclavizadas en la Rep\u00fablica Dominicana\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " O si sabia usted que el mang\u00fa es una comida popularizada por los negros esclavizados en Rep. Dom.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Pero ake negro te refiere por ke la mayor\u00eda de mi familia son negro\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Al negro altiano y al dominicano\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Cual es la diferencia ademas de la nacionalidad entre los dos?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Ke uno es altiano y uno es dominicano uno habla espa\u00f1ol y el otro no\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " hablo del negro dominicano\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Ok pens\u00e9 ke era sobre los emigrante altiano por ke eso son seres humano al igual ke yo pero eyo aya y yo aki\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfComo que ellos alla y usted aqui?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Sii por ke eyo son de un pa\u00eds y yo de otro osea s\u00f3lo seres humano y iguale pero a\u00f1o altiano y yo dominicano hablamos diferente lengua son dos pa\u00edses diferente\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201016-WA0000.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No es entendible\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfPor qu\u00e9 piensa usted que es descriminatorio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Hola\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas, no me contesto porque cree usted que este afiche es descriminatorio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Si dama\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Esperando su respuesta sobre porque cree usted que el afiche era descriminatorio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Porque realizamos una encuesta y todos o la mayor\u00eda los entienden as\u00ed.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfComo que realizaron una encuesta? \u00bfQuienes fueron los participantes?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Todo el que pasaba en veh\u00edculos\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " En el Ranchito\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Pero usted no ha contestado porque usted (y no los de la encuesta) cree que es descriminatorio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Siiiiiiiiiiii muy\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bf por qu\u00e9?\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Hello\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " De que trata?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " ?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfcual pregunta vio usted?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Ocea es la pregunta que vi o como es\ud83d\ude05\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Porque simple mente vi el cartel con las diferentes preguntas y me interes\u00f3 tirar solo por curicidad\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Me gusta fortalezer mi mente\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Pense que era algun tipo de grupo \u267b\ufe0f\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Si. \u00bfPero cuales preguntas viste?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Que el mang\u00fa fue inventado por los esclavos\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Y cual es su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eSTK-20201106-WA0000.webp (archivo adjunto)\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eSTK-20201106-WA0001.webp (archivo adjunto)\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eSTK-20201106-WA0002.webp (archivo adjunto)\n",
+                    "msg_file_type": "text"
+                }
+            ]
+        ]
+    },
+    {
+        "id": "bachata,_merengue,_salsa",
+        "name": " Bachata, Merengue, Salsa",
+        "data": [
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " saludos bna\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " en la vega\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " tengo 31 a\u00f1os \n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "me llaman MIGUEL LA SALSA\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Activaste los mensajes temporales. Los mensajes nuevos desaparecer\u00e1n de este chat despu\u00e9s de 7 d\u00edas. Toca para cambiar esto.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Desactivaste los mensajes temporales. Toca para cambiar esto.\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " saludos bna\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " en la vega\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " tengo 31 a\u00f1os \n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "me llaman MIGUEL LA SALSA\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Activaste los mensajes temporales. Los mensajes nuevos desaparecer\u00e1n de este chat despu\u00e9s de 7 d\u00edas. Toca para cambiar esto.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Desactivaste los mensajes temporales. Toca para cambiar esto.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas, gracias por participar en \u00a1Se buscan testigos! Queria saber si podriamos ense\u00f1ar su respuesta como parte de la plataforma que estara en la exhibici\u00f3n del proyecto en el Centro Le\u00f3n Jimenez en Santiago. Por favor me deja saber sobre su consentimiento. \u00a1Muchas Gracias!\n",
+                    "msg_file_type": "text"
+                }
+            ]
+        ]
+    },
+    {
+        "id": "cedula_vieja",
+        "name": " Cedula Vieja",
+        "data": [
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Hola, escribo por la publicacion en el periodico diario linre\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Libre\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " En mi cedula anterior pon\u00eda la tez como indio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Me gustaria saber para que proyecta es la informacion, y de que manera puedo cooperar\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto de arte participativo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfY porque cree usted que lo denominaron como indio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La verdad es que desconozco pero puedo interpretar que es un reemplazo a la  denominaci\u00f3n \"mulata\"  ya que indio no es un color sino una etnia.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfY como cree que esta creaci\u00f3n de esta denominaci\u00f3n afecto nuestro imaginario racial?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Genera duda y desconocimiento de nuestra identidad racial\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Puedo saber de quien es el proyecto\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Claro\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Mi nombre es Lizania Cruz\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201030-WA0001.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "Indio porque Trujillo no quer\u00eda saber de los negros\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfY como cree que esta creaci\u00f3n de esta denominaci\u00f3n afecto nuestro imaginario racial?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Gracias por compartir esta foto\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Hola\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "     Eran 400 000 la cantidad de indios que los espa\u00f1oles exterminaron en menos de 50 a\u00f1os a.su llegada y la corona espa\u00f1ola no revela los documentos de su exterminio \n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "El indio enriquillo esta enterrado en sabana grande de boya y nadie lo confirma \n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "  \n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "  La c\u00e9dula fue creada por la era de trujillo el los a\u00f1os 1935+< \n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "    Fue un t\u00e9rmino popular para quitarse el  negro detr\u00e1s de las orejas que tenemos todos los dominicanos\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias por su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfcual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Juan Herrera 45 a\u00f1os\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Ah una ultima pregunta. \u00bfComo cree usted que eso afecta nuestro imaginario racial dominicano?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Tengo mi c\u00e9dula vieja\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "  De carton\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Ahh si!\u00bfY ahi lo denominan como indio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La estoy buscando para enviarla\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \ud83d\ude4c\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201030-WA0002.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00a1Muchas gracias!\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La tengo la  c\u00e9dula\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "   Como nueva\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Si! Eso veo esta nuevesita\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Me interesa saber el motivo del indio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "Y si usted conoce alg\u00fan cementerio ind\u00edgena en esta isla\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " No conozco un cementerio ind\u00edgena\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Parte del proyecto es ver el porque esto de decir que hay \"indios\" en RD\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " https",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Cuando se encuentra \n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "Un cementerio indigena en nuestra isla todo el mundo calla \n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "Los espa\u00f1oles no quieren que se sepa lo que paso con nuestros indios\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Usted sabe de alguno?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Eso es  confidencial\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Estuve al perder la vida en la zona colonial\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "Hay se Esconden grandes secretos de la epoca\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Si me pusieron color indio porque no soy ni negro ni blanco y tengo el pelo bueno\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas. Gracias por dar su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Que cree usted de estos articulos",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " https",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Si porqu\u00e9 yo no era ni blanca ni negra,ni amarilla, el color m\u00edo era entre clara y oscura\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " https",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y donde cobro el premio q me gane?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfEl premio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Si\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " B\u00fascame mi premio yo di una repuesta y gane\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Bueno se\u00f1ora lamento informarle que no hay premio. No es un concurso es un proyecto de arte participativo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Clara Cuevas 67 a\u00f1os\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " A mi s\u00ed..\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " La encuesta del peri\u00f3dico\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201030-WA0000.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto de arte participativo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfY usted se considera indio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfY porque cree usted que lo denominaron como indio?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Ok.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Mi color de piel, seg\u00fan ellos\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfY como cree que esta creaci\u00f3n de esa denominaci\u00f3n afecto nuestro imaginario racial?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Y Que cree usted de estos articulos",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " No lo s\u00e9\n",
+                    "msg_file_type": "text"
+                }
+            ]
+        ]
+    },
+    {
+        "id": "v_centenario",
+        "name": " V Centenario",
+        "data": [
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Buen dia......\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "Quienes son ustedes y que buscan con todo esto?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " \u200eIMG-20201113-WA0000.jpg (archivo adjunto)\n",
+                    "msg_file_type": "image"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Eliminaste este mensaje\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Estamos buscando testimonios. Le gustaria participar?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                }
+            ]
+        ]
+    },
+    {
+        "id": "pena_gomez",
+        "name": " Pe\u00f1a Gomez",
+        "data": [
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Saludos Buenas tardes\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": "  Mean Hombres Ramon Taveras\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Con relaci\u00f3n a la pregunta Pe\u00f1a G\u00f3mez ten\u00eda derechos para ser presidente\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Definitivamente no ten\u00eda derecho para ser presidente por lo menos no en Rep\u00fablica Dominicana la Constituci\u00f3n de Hait\u00ed es Clara y dice que los hijos de haitianos seguir\u00e1n siendo haitianos en cualquier parte del mundo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Eliminaste este mensaje\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfAh cual es su edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " 52 a\u00f1os\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es un proyecto de arte participativo que investiga el imaginario racial de nosotros los dominicanos.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Le puedo dar mas informaci\u00f3n sobre el proyecto en los proximos meses cuando esten todas las respuestas compiladas.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " <Multimedia omitido>\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Que descanses\n",
+                    "msg_file_type": "text"
+                }
+            ],
+            [
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Pe\u00f1a G\u00f3mez no fue presidente por su color de piel\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Buenas\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfCree usted que tenia derecho a ser presidente?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Si\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfPor qu\u00e9?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Cumpl\u00eda todos los requerimientos para desempe\u00f1ar ese cargo adem\u00e1s a \u00e9l le correspond\u00eda dos a\u00f1os. Seg\u00fan el famoso acuerdo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfUsted voto por \u00e9l?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Viaje desde NYC pre\u00f1ada con un embarazo en alto riesgo y trabaje y Vote y espere la 2 vuelta y regrese a NYC con 8 meses.\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Wow. Gracias por compartir su testimonio\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u00bfcual es su nombre y edad?\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Minerva Pe\u00f1a\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " 51\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias. Que pase buenas noche\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Ese fue mi \u00fanico hijo\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Prematuro\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Pero sano\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \u2764\ufe0f\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Usted queria mucho que pe\u00f1a ganara\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " M\u00e1s que todo en el mundo, todav\u00eda tengo la foto enmarcada que me a acompa\u00f1ado en los tres pa\u00edses que he vivido\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Y usted que inter\u00e9s tiene en conocer estos datos ya hace 24 a\u00f1os\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Por su foto usted ni hab\u00eda nacido\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " \ud83d\ude01 si habia nacido. Pero no podia votar todavia. Pero me acuerdo perfectamente de su campa\u00f1a\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Es una proyecto de arte participativo que investiga nuestro imaginario racial\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Primero la gente el slogan y la m\u00e1s hermosa canci\u00f3n\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Si\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Que tengas \u00e9xitos\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "admin",
+                    "msg_body": " Muchas gracias\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Siempre\n",
+                    "msg_file_type": "text"
+                },
+                {
+                    "msg_sender": "participant",
+                    "msg_body": " Un abrazo\n",
+                    "msg_file_type": "text"
+                }
+            ]
+        ]
+    }
+]
