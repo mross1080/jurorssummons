@@ -13,23 +13,23 @@ const client = redis.createClient({
 /* GET home page. */
 router.get('/', function (req, res, next) {
 
-  res.render('index', { title: 'Cool life', station: 'Welcome Station' });
+  res.render('index', { title: 'Jurors Summons', station: 'Welcome Station' });
 });
 
 /* GET home page. */
 router.get('/station', function (req, res, next) {
 
-  res.render('station', { title: 'Cool life', station: 'Welcome Station' });
+  res.render('station', { title: 'Jurors Summons', station: 'Welcome Station' });
 });
 
 router.get('/stationone', function (req, res, next) {
 
-  res.render('stationone', { title: 'Cool life', station: 'Welcome Station' });
+  res.render('stationone', { title: 'Jurors Summons', station: 'Welcome Station' });
 });
 
 router.get('/stationtwo', function (req, res, next) {
 
-  res.render('stationtwo', { title: 'Cool life', station: 'Welcome Station' });
+  res.render('stationtwo', { title: 'Jurors Summons', station: 'Welcome Station' });
 });
 
 router.get('/stationthree', function (req, res, next) {
@@ -39,12 +39,12 @@ router.get('/stationthree', function (req, res, next) {
 
 router.get('/zipcode', function (req, res, next) {
 
-  res.render('zipcode', { title: 'Cool life', station: 'Welcome Station' });
+  res.render('zipcode', { title: 'Jurors Summons', station: 'Welcome Station' });
 });
 
 router.get('/print', function (req, res, next) {
 
-  res.render('print', { title: 'Cool life', station: 'Welcome Station' });
+  res.render('print', { title: 'Jurors Summons', station: 'Welcome Station' });
 });
 
 
