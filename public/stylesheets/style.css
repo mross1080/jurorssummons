@@ -124,6 +124,18 @@ select:-webkit-autofill:focus{
 
 
 }
+
+.modalContent {
+  font-family: AGaramonPro;
+
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  padding: 0px 30px;
+  font-size: 3vh;
+
+
+}
 /* 
 input[type="radio"]:checked+label { 
   

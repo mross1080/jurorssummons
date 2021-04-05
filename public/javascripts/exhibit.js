@@ -31,7 +31,18 @@ function retrieveUserData() {
         console.log("Look at this data!")
         let userData = (JSON.parse(data.name))
       console.log(JSON.parse(data.name));
+      $("#ex2").modal({
+        fadeDuration: 300
+      });
       document.getElementById("name").innerText = `Hello ${userData.userName}`
+
+
+   
+      setTimeout(function() { $(".blocker").click()}, 3000)
+
+
+
+
 
     });
   }
@@ -65,6 +76,10 @@ function retrieveUserData() {
             fadeDuration: 300
           });
     
+        //   setTimeout(function() {
+        //     conso  
+        //     $(".blocker").click()}, 3000)
+
         });
       }
     )

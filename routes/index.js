@@ -108,6 +108,7 @@ router.get('/stationtwoanswer', function (req, res, next) {
   setAnswerForStation(res, "a2", req.query.fingerprintId, req.query.answer)
 });
 
+
 router.get('/stationthreeanswer', function (req, res, next) {
   console.log("Sending data for station 3  ")
   console.log(req.query)
@@ -133,9 +134,11 @@ router.get('/stationthreeanswer', function (req, res, next) {
       console.log("sending data", userInfo)
       try {
         wss.clients.forEach(function each(client) {
+          console.log("Trying to send to client ")
           if (client.readyState === WebSocket.OPEN) {
             console.log("sending data")
             client.send(JSON.stringify(userInfo));
+            console.log("sent data")
           }
         });
 

@@ -5,15 +5,19 @@
 import asyncio
 import websockets
 
-async def hello():
+async def processMessage():
     uri = "ws://localhost:8080"
-    async with websockets.connect(uri) as websocket:
-        name = "Jerb"
+    while True:
+        async with websockets.connect(uri) as websocket:
+            print("Got a new message from server")
+            name = "Jerb"
 
-        await websocket.send(name)
-        print(f"> {name}")
+            await websocket.send(name)
+            print(f"> {name}")
 
-        greeting = await websocket.recv()
-        print(f"< {greeting}")
+            greeting = await websocket.recv()
+            print(f"< {greeting}")
+loop = asyncio.get_event_loop()
 
-asyncio.get_event_loop().run_until_complete(hello())
+loop.run_until_complete(processMessage())
+loop.run_forever()
