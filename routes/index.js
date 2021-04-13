@@ -13,8 +13,27 @@ const client = redis.createClient({
 /* GET home page. */
 router.get('/', function (req, res, next) {
 
-  res.render('index', { title: 'Jurors Summons', station: 'Welcome Station' });
+   res.render('index', { 
+    title: 'Jurors Summons',
+     station: 'Welcome Station',
+    submit:"Submit",
+    namePlaceholder:"Your Name",
+    modalMessage:"Thank you for your answer. You may now proceed to the next station "
+   });
 });
+
+
+router.get('/es', function (req, res, next) {
+
+  res.render('index', { 
+    title: 'Jurors Summons',
+     station: 'Welcome Station',
+    submit:"Someter",
+    namePlaceholder:"Su Nombre",
+    modalMessage:"Gracias por su respuesta. Ahora puede pasar a la siguiente estación"
+   });
+});
+
 
 /* GET home page. */
 router.get('/station', function (req, res, next) {
@@ -22,7 +41,8 @@ router.get('/station', function (req, res, next) {
   res.render('station', { title: 'Jurors Summons', station: 'Welcome Station' });
 });
 
-router.get('/stationone', function (req, res, next) {
+router.get('/stationone/', function (req, res, next) {
+  console.log(req)
 
   res.render('stationone', { title: 'Jurors Summons', station: 'Welcome Station' });
 });
@@ -46,6 +66,19 @@ router.get('/print', function (req, res, next) {
 
   res.render('print', { title: 'Jurors Summons', station: 'Welcome Station' });
 });
+
+
+router.get('/sugarIntake', function (req, res, next) {
+
+  res.render('sugarIntake', { title: 'Jurors Summons', station: 'Welcome Station' });
+});
+
+
+router.get('/archivePermission', function (req, res, next) {
+
+  res.render('archivePermission', { title: 'Jurors Summons', station: 'Welcome Station' });
+});
+
 
 
 function setAnswerForStation(res, station, userId, answer) {
@@ -117,6 +150,39 @@ router.get('/stationthreeanswer', function (req, res, next) {
   let userId = req.query.fingerprintId
   console.log("Attempting to create redis connection")
 
+
+  setAnswerForStation(res, "a3", req.query.fingerprintId, req.query.answer)
+});
+
+
+router.get('/sugarIntakeanswer', function (req, res, next) {
+  console.log("Sending data for station 3  ")
+  console.log(req.query)
+
+
+  setAnswerForStation(res, "sugarIntake", req.query.fingerprintId, req.query.answer)
+});
+
+router.get('/archivePermissionanswer', function (req, res, next) {
+  console.log("Sending data for station 3  ")
+  console.log(req.query)
+
+
+  setAnswerForStation(res, "archivePermission", req.query.fingerprintId, req.query.answer)
+});
+
+
+router.get('/zipcodeanswer', function (req, res, next) {
+  console.log("Got new user ")
+  console.log(req.query)
+
+  setAnswerForStation(res, "zipcode", req.query.fingerprintId, req.query.answer)
+});
+
+router.get('/printanswer', function (req, res, next) {
+  console.log("Got command to print ")
+  console.log(req.query)
+  let userId = req.query.fingerprintId
   try {
 
 
@@ -129,22 +195,11 @@ router.get('/stationthreeanswer', function (req, res, next) {
       console.log("got data structure for ", userId)
 
       let userInfo = JSON.parse(reply)
-      userInfo["a3"] = req.query.answer
 
       console.log("sending data", userInfo)
-      try {
-        wss.clients.forEach(function each(client) {
-          console.log("Trying to send to client ")
-          if (client.readyState === WebSocket.OPEN) {
-            console.log("sending data")
-            client.send(JSON.stringify(userInfo));
-            console.log("sent data")
-          }
-        });
 
-      } catch (err) {
-        console.log(err)
-      }
+      client.publish("broadcast",JSON.stringify(userInfo))
+
     });
 
 
@@ -152,16 +207,6 @@ router.get('/stationthreeanswer', function (req, res, next) {
     console.log(err)
   }
 
-
-  setAnswerForStation(res, "a3", req.query.fingerprintId, req.query.answer)
-});
-
-
-router.get('/zipcodeanswer', function (req, res, next) {
-  console.log("Got new user ")
-  console.log(req.query)
-
-  setAnswerForStation(res, "zipcode", req.query.fingerprintId, req.query.answer)
 });
 
 
@@ -173,7 +218,9 @@ let userInfo = {
   "a1": "",
   "a2": "",
   "a3": "",
-  "zipcode": ""
+  "zipcode": "",
+  "sugarIntake":"",
+  "archivePermission":""
 }
 
 

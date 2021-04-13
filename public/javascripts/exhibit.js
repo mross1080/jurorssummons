@@ -1,10 +1,6 @@
 var visitorId = ""
 
-const ws = new WebSocket('ws://localhost:8080');
 
-ws.onopen = function (event) {
-    ws.send("Here's some text that the server is urgently awaiting!");
-  };
 function initFingerprintJS() {
     FingerprintJS.load().then(fp => {
       fp.get().then(result => {

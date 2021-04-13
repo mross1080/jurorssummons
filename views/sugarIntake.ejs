@@ -27,37 +27,41 @@
         </div>
         <div class="questionContainer">
             <div class="stationHeader">
-                <p class="questionText">Do you know or have heard of any of the suspects and witnesses?  </p>
+                <p class="questionText">What is your sugar intake per week?  </p>
                 <div class="centerVertical">
                     <img src="/images/iirdicon.png" alt="Exhibit Icon" width="200" height="210">
                 </div>
             </div>
             <div id="ex2" class="modal">
                 <div class="modalContent">
-
-                <p id="name"></p>
+                    <p id="name"></p>
+                </div>
             </div>
-
-            </div>
-
             <div id="ex1" class="modal">
-                <div class="">
-                <p>Thank you for your answer. You may now proceed to the next station </p>
+                <p>Thank you for submitting you may now proceed to the next station</p>
             </div>
-            </div>
+
             <form id="answerForm" name="answerForm">
                 <div class="radio">
-                    <input id="radio-2" name="answerOption" type="radio" value="Yes!">
-                    <label for="radio-2" class="radio-label">Yes</label>
+                    <input id="radio-1" name="answerOption" type="radio" value="1">
+                    <label for="radio-1" class="radio-label">High</label>
                 </div>
                 <div class="radio">
-                    <input id="radio-3" name="answerOption" type="radio" value="No!">
-                    <label for="radio-3" class="radio-label">No</label>
+                    <input id="radio-2" name="answerOption" type="radio" value="2">
+                    <label for="radio-2" class="radio-label">Medium</label>
+                </div>
+                <div class="radio">
+                    <input id="radio-3" name="answerOption" type="radio" value="3">
+                    <label for="radio-3" class="radio-label">Low</label>
+                </div>
+                <div class="radio">
+                    <input id="radio-4" name="answerOption" type="radio" value="4">
+                    <label for="radio-4" class="radio-label">None</label>
                 </div>
             </form>
-            <div onclick="submitAnswer('stationone')" class="submitAnswerButton">
+            <div onclick="submitAnswer('sugarIntake')" class="submitAnswerButton">
                 <div class="centerVertical">
-                    <p class=" optionText">Submit Answer </p>
+                    <p class=" optionText">Submit </p>
                 </div>
                 <div class="centerVertical">
                     <img src="/images/arrow.png" alt="Exhibit Icon" width="70" height="70">

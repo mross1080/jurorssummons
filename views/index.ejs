@@ -35,16 +35,17 @@
             </div>
             <div id="ex1" class="modal">
               <div class="modalBody centerVertical">
-                  <p>Thank you for submitting you may now proceed to the next station</p>
+                  <p><%= modalMessage %></p>
               </div>
+              
           </div>
 
             <form id="answerForm" name="answerForm">
-                    <input class="textInput" id="zipcode" name="answerOption" type="text" placeholder="Your Name:">
+                    <input class="textInput" id="zipcode" name="answerOption" type="text" placeholder='<%= namePlaceholder %>'>
             </form>
             <div onclick="registerUser()" class="submitAnswerButton">
                 <div class="centerVertical">
-                    <p class=" optionText" onclick="registerUser()" >Submit</p>
+                    <p class=" optionText" onclick="registerUser()" > <%= submit %> </p>
                 </div>
                 <div class="centerVertical">
                     <img src="/images/arrow.png" alt="Exhibit Icon" width="70" height="70">
