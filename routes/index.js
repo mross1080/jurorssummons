@@ -97,7 +97,7 @@ function setAnswerForStation(res, station, userId, answer) {
         console.log("Got user info ", userInfo)
 
         userInfo[station] = answer
-        client.set(userId, JSON.stringify(userInfo), (err, reply) => {
+        client.set(userId, JSON.stringify(userInfo), 'EX', 60 * 60 * 24, (err, reply) => {
           if (err) {
             console.log(err)
             res.json({ title: "Error In Submitting Answer" });
@@ -199,6 +199,9 @@ router.get('/printanswer', function (req, res, next) {
       console.log("sending data", userInfo)
 
       client.publish("broadcast",JSON.stringify(userInfo))
+      console.log("Sent Command to Structure and Print Doc")
+      res.json({ title: "Update Successful" });
+
 
     });
 
