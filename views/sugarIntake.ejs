@@ -22,26 +22,35 @@
     <div class="App">
 
         <div class="navBar">
-            <div class="lang">Espanol</div>
-            <div class="lang">English</div>
+            <div class="langSelect">
+                <div id="langEs" class="lang">Espanol</div>
+                <div id="langEn" class="lang">English</div>
+            </div>
+
+            <div class="centerVertical">
+                <img src="/images/iirdicon.png" alt="Exhibit Icon" width="400" height="410">
+            </div>
         </div>
         <div class="questionContainer">
             <div class="stationHeader">
                 <p class="questionText">What is your sugar intake per week?  </p>
-                <div class="centerVertical">
-                    <img src="/images/iirdicon.png" alt="Exhibit Icon" width="200" height="210">
-                </div>
+         
             </div>
             <div id="ex2" class="modal">
                 <div class="modalContent">
-                    <p id="name"></p>
+                    <div class="modalBody centerVertical">
+                        <p id="name"></p>
+                    </div>
                 </div>
             </div>
             <div id="ex1" class="modal">
-                <p>Thank you for submitting you may now proceed to the next station</p>
-            </div>
+                <div class="modalBody centerVertical">
+                    <p class="enContent proceedText">Thank you for submitting you may now proceed to the next station</p>
+                    <p class="esContent proceedText">Gracias por su respuesta. Ahora puede pasar a la siguiente estación  </p>
+                </div>           
+             </div>
 
-            <form id="answerForm" name="answerForm">
+            <form class="enContent" id="answerFormen" name="answerForm">
                 <div class="radio">
                     <input id="radio-1" name="answerOption" type="radio" value="1">
                     <label for="radio-1" class="radio-label">High</label>
@@ -59,9 +68,28 @@
                     <label for="radio-4" class="radio-label">None</label>
                 </div>
             </form>
+            <form class="esContent" id="answerFormes" name="answerForm">
+                <div class="radio">
+                    <input id="radio-5" name="answerOption" type="radio" value="1">
+                    <label for="radio-5" class="radio-label">Alto</label>
+                </div>
+                <div class="radio">
+                    <input id="radio-6" name="answerOption" type="radio" value="2">
+                    <label for="radio-6" class="radio-label">Medio</label>
+                </div>
+                <div class="radio">
+                    <input id="radio-7" name="answerOption" type="radio" value="3">
+                    <label for="radio-7" class="radio-label">Bajo</label>
+                </div>
+                <div class="radio">
+                    <input id="radio-8" name="answerOption" type="radio" value="4">
+                    <label for="radio-8" class="radio-label">Ninguno</label>
+                </div>
+            </form>
             <div onclick="submitAnswer('sugarIntake')" class="submitAnswerButton">
                 <div class="centerVertical">
-                    <p class=" optionText">Submit </p>
+                    <p class="enContent optionText">Submit Answer </p>
+                    <p class="esContent optionText">Someter </p>
                 </div>
                 <div class="centerVertical">
                     <img src="/images/arrow.png" alt="Exhibit Icon" width="70" height="70">

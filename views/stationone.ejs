@@ -22,42 +22,73 @@
     <div class="App">
 
         <div class="navBar">
-            <div class="lang">Espanol</div>
-            <div class="lang">English</div>
+            <div class="langSelect">
+                <div id="langEs" class="lang">Espanol</div>
+                <div id="langEn" class="lang">English</div>
+            </div>
+
+            <div class="centerVertical">
+                <img src="/images/iirdicon.png" alt="Exhibit Icon" width="400" height="410">
+            </div>
         </div>
         <div class="questionContainer">
             <div class="stationHeader">
-                <p class="questionText">Do you know or have heard of any of the suspects and witnesses?  </p>
-                <div class="centerVertical">
-                    <img src="/images/iirdicon.png" alt="Exhibit Icon" width="200" height="210">
+                <div class="enContent multiLineQuestion centerVertical">
+                    <p class="questionText">Do you know or</p>
+                    <p class="questionText">have heard of any </p>
+                    <p class="questionText">of the suspects </p>
+                    <p class="questionText">and witnesses?</p>
+                </div>
+                <div class="esContent multiLineQuestion centerVertical">
+                    <p class="questionText">¿Conoce usted</p>
+                    <p class="questionText">o ha oído hablar </p>
+                    <p class="questionText">de alguno de los </p>
+                    <p class="questionText">sospechosos o </p>
+                    <p class="questionText">testigos? </p>
+
                 </div>
             </div>
             <div id="ex2" class="modal">
                 <div class="modalContent">
-
-                <p id="name"></p>
-            </div>
-
+                    <div class="modalBody centerVertical">
+                        <p id="name"></p>
+                    </div>
+                </div>
             </div>
 
             <div id="ex1" class="modal">
-                <div class="">
-                <p>Thank you for your answer. You may now proceed to the next station </p>
+                <div class="modalContent">
+                    <div class="modalBody centerVertical">
+                    <p class="enContent">Thank you for your answer. You may now proceed to the next station </p>
+                    <p class="esContent proceedText">Gracias por su respuesta. Ahora puede pasar a la siguiente estación</p>
+                </div>
+                </div>
             </div>
-            </div>
-            <form id="answerForm" name="answerForm">
+            <form class="enContent" id="answerFormen" name="answerForm">
                 <div class="radio">
-                    <input id="radio-2" name="answerOption" type="radio" value="Yes!">
-                    <label for="radio-2" class="radio-label">Yes</label>
+                    <input id="radio-1" name="answerOption" type="radio" value="1">
+                    <label for="radio-1" class="radio-label">Yes</label>
                 </div>
                 <div class="radio">
-                    <input id="radio-3" name="answerOption" type="radio" value="No!">
+                    <input id="radio-4" name="answerOption" type="radio" value="2">
+                    <label for="radio-4" class="radio-label">No</label>
+                </div>
+            </form>
+            <form class="esContent" id="answerFormes" name="answerForm">
+                <div class="radio">
+                    <input id="radio-2" name="answerOption" type="radio" value="1">
+                    <label for="radio-2" class="radio-label">Si</label>
+                </div>
+                <div class="radio">
+                    <input id="radio-3" name="answerOption" type="radio" value="2">
                     <label for="radio-3" class="radio-label">No</label>
                 </div>
             </form>
             <div onclick="submitAnswer('stationone')" class="submitAnswerButton">
                 <div class="centerVertical">
-                    <p class=" optionText">Submit Answer </p>
+                    <p class="enContent optionText">Submit Answer </p>
+                    <p class="esContent optionText">Someter </p>
+
                 </div>
                 <div class="centerVertical">
                     <img src="/images/arrow.png" alt="Exhibit Icon" width="70" height="70">

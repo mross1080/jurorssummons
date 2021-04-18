@@ -22,12 +22,18 @@
     <div class="App">
 
         <div class="navBar">
-            <div class="lang">Espanol</div>
-            <div class="lang">English</div>
+            <div class="langSelect">
+                <div id="langEs" class="lang">Espanol</div>
+                <div id="langEn" class="lang">English</div>
+            </div>
+
+            <div class="centerVertical">
+                <img src="/images/iirdicon.png" alt="Exhibit Icon" width="400" height="410">
+            </div>
         </div>
         <div class="questionContainer">
             <div class="stationHeader">
-                <div class="multiLineQuestion centerVertical">
+                <div class="enContent multiLineQuestion centerVertical">
                     <p class="questionText">To what degree</p>
                     <p class="questionText">do you think </p>
                     <p class="questionText">the U.S. is </p>
@@ -36,22 +42,31 @@
                     <p class="questionText">of the D.R.?</p>
                 </div>
 
-
-
-                <div class="alignTop">
-                    <img src="/images/iirdicon.png" alt="Exhibit Icon" width="200" height="210">
+                <div class="esContent multiLineQuestion centerVertical">
+                    <p class="questionText">¿Hasta qué punto</p>
+                    <p class="questionText">cree usted que los </p>
+                    <p class="questionText">Estados Unidos </p>
+                    <p class="questionText">está implicado en</p>
+                    <p class="questionText">las construcciones </p>
+                    <p class="questionText">raciales de R.D.?</p>
                 </div>
+
+
             </div>
             <div id="ex1" class="modal">
-                <p>Thank you for submitting you may now proceed to the next station</p>
-            </div>
+                <p class="enContent proceedText">Thank you for submitting you may now proceed to the next station
+                </p>
+                <p class="esContent proceedText">Gracias por su respuesta. Ahora puede pasar a la siguiente estación
+                </p>            </div>
             <div id="ex2" class="modal">
                 <div class="modalContent">
-                    <p id="name"></p>
+                    <div class="modalBody centerVertical">
+                        <p id="name"></p>
+                    </div>
                 </div>
             </div>
 
-            <form id="answerForm" name="answerForm">
+            <form class="enContent" id="answerFormen" name="answerForm">
                 <div class="radio">
                     <input id="radio-1" name="answerOption" type="radio" value="1">
                     <label for="radio-1" class="radio-label">Fully implicated</label>
@@ -69,9 +84,28 @@
                     <label for="radio-4" class="radio-label">Not implicated at all</label>
                 </div>
             </form>
+            <form class="esContent" id="answerFormes" name="answerForm">
+                <div class="radio">
+                    <input id="radio-5" name="answerOption" type="radio" value="1">
+                    <label for="radio-5" class="radio-label">Totalmente implicado</label>
+                </div>
+                <div class="radio">
+                    <input id="radio-6" name="answerOption" type="radio" value="2">
+                    <label for="radio-6" class="radio-label">Modestamente implicado</label>
+                </div>
+                <div class="radio">
+                    <input id="radio-7" name="answerOption" type="radio" value="3">
+                    <label for="radio-7" class="radio-label">Ligeramente implicado</label>
+                </div>
+                <div class="radio">
+                    <input id="radio-8" name="answerOption" type="radio" value="4">
+                    <label for="radio-8" class="radio-label">Para nada implicado</label>
+                </div>
+            </form>
             <div onclick="submitAnswer('stationthree')" class="submitAnswerButton">
                 <div class="centerVertical">
-                    <p class=" optionText">Submit Answer </p>
+                    <p class="enContent optionText">Submit Answer </p>
+                    <p class="esContent optionText">Someter </p>
                 </div>
                 <div class="centerVertical">
                     <img src="/images/arrow.png" alt="Exhibit Icon" width="70" height="70">

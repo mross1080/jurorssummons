@@ -94,9 +94,10 @@ function setAnswerForStation(res, station, userId, answer) {
 
       if (userInfo != null) {
 
-        console.log("Got user info ", userInfo)
 
         userInfo[station] = answer
+        console.log("Setting user info to : ", userInfo)
+
         client.set(userId, JSON.stringify(userInfo), 'EX', 60 * 60 * 24, (err, reply) => {
           if (err) {
             console.log(err)
@@ -216,39 +217,42 @@ router.get('/printanswer', function (req, res, next) {
 
 
 let userInfo = {
-  "userName": "",
-  "userId": "",
-  "a1": "",
-  "a2": "",
-  "a3": "",
-  "zipcode": "",
-  "sugarIntake":"",
-  "archivePermission":""
+  "userName": "1",
+  "userId": "1",
+  "a1": "1",
+  "a2": "1",
+  "a3": "1",
+  "zipcode": "11222",
+  "sugarIntake":"1",
+  "archivePermission":"1",
+  "lang" : "en"
 }
 
 
 router.get('/registerUser', function (req, res, next) {
-  console.log("Got new user ")
+  console.log("\n\nRegistering a new user for the exhbit ")
 
   let userName = req.query.userName
   let fingerprintId = req.query.fingerprintId
-  console.log("Username ", userName)
-  console.log("Finger print id ", fingerprintId)
+  let lang = req.query.lang
+
 
   userInfo["userName"] = userName
+  userInfo["lang"] = lang
+
   userInfo["userId"] = fingerprintId
+  console.log(`\nFingerprint id ${fingerprintId}\nuserName : ${userName}\nlang: ${lang}\n`)
 
   client.set(fingerprintId, JSON.stringify(userInfo), (err, reply) => {
     if (err) {
       console.log(err)
     }
-    console.log(reply);
 
     client.get(fingerprintId, (err, reply) => {
       if (err) {
         console.log(err)
       }
-      console.log("r : " + reply);
+      console.log("put into db data structure : " + reply);
       res.json({ title: JSON.parse(reply) });
 
     });
@@ -263,10 +267,9 @@ router.get('/registerUser', function (req, res, next) {
 });
 
 router.get('/retrieveUser', function (req, res, next) {
-  console.log("Got new user ")
 
   let fingerprintId = req.query.fingerprintId
-  console.log("Finger print id ", fingerprintId)
+  console.log("Retieving info for device with Finger print id ", fingerprintId)
 
 
 
@@ -274,7 +277,7 @@ router.get('/retrieveUser', function (req, res, next) {
     if (err) {
       console.log(err)
     }
-    console.log("r : " + reply);
+    // console.log("r : " + reply);
     res.json({ name: reply });
 
   });

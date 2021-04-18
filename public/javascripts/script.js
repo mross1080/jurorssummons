@@ -13,8 +13,8 @@ function initFingerprintJS() {
     });
   }
 
-function makeRequest(userName) {
-  fetch(`/registerUser?fingerprintId=${visitorId}&userName=${userName}`)
+function makeRequest(userName,lang) {
+  fetch(`/registerUser?fingerprintId=${visitorId}&userName=${userName}&lang=${lang}`)
 .then(
   function(response) {
     if (response.status !== 200) {
@@ -27,6 +27,8 @@ function makeRequest(userName) {
     response.json().then(function(data) {
         console.log("Look at this data!")
       console.log(data);
+      document.getElementById("nextStationLink").click()
+
       $("#ex1").modal({
         fadeDuration: 300
       });
@@ -42,9 +44,10 @@ function makeRequest(userName) {
 function registerUser() {
     console.log("hi")
     let name  = document.forms["answerForm"].elements["answerOption"].value
+    let lang  = document.forms["langForm"].elements["answerOption"].value
 
     console.log(name)
-    makeRequest(name)
+    makeRequest(name,lang)
 
 }
 

@@ -124,15 +124,6 @@ def formatDocument(userInfo):
 
 if __name__ == "__main__":
     try:
-        formatDocument({
-            "userName": "Forsyth Charles",
-            "userId": "1",
-            "a1": "2",
-            "a2": "2",
-            "a3": "3",
-            "zipcode": "11237",
-            "sugarIntake": "High",
-            "archivePermission": ""
-        })
+        formatDocument({'userName': 's', 'userId': 'd63142d7cf6f53a093ebc32ae1448f18', 'a1': '1', 'a2': '1', 'a3': '1', 'zipcode': '11222', 'sugarIntake': '1', 'archivePermission': '1', 'lang': 'en'})
     except Exception as e:
         print(e)

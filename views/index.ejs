@@ -23,15 +23,20 @@
     <div class="App">
 
         <div class="navBar">
-            <div class="lang">Espanol</div>
-            <div class="lang">English</div>
+            <div class="langSelect">
+                <div class="lang"></div>
+                <div class="lang"></div>
+
+            </div>
+
+            <div class="centerVertical">
+                <img src="/images/iirdicon.png" alt="Exhibit Icon" width="400" height="410">
+            </div>
         </div>
         <div class="questionContainer">
             <div class="stationHeader">
                 <p class="questionText"> </p>
-                <div class="centerVertical">
-                    <img src="/images/iirdicon.png" alt="Exhibit Icon" width="200" height="210">
-                </div>
+           
             </div>
             <div id="ex1" class="modal">
               <div class="modalBody centerVertical">
@@ -43,6 +48,17 @@
             <form id="answerForm" name="answerForm">
                     <input class="textInput" id="zipcode" name="answerOption" type="text" placeholder='<%= namePlaceholder %>'>
             </form>
+
+            <form id="langForm" name="langForm">
+                <div class="radio">
+                    <input id="radio-2" name="answerOption" type="radio" value="en">
+                    <label for="radio-2" class="radio-label">English</label>
+                </div>
+                <div class="radio">
+                    <input id="radio-3" name="answerOption" type="radio" value="es">
+                    <label for="radio-3" class="radio-label">Espanol</label>
+                </div>
+            </form>
             <div onclick="registerUser()" class="submitAnswerButton">
                 <div class="centerVertical">
                     <p class=" optionText" onclick="registerUser()" > <%= submit %> </p>
@@ -50,7 +66,9 @@
                 <div class="centerVertical">
                     <img src="/images/arrow.png" alt="Exhibit Icon" width="70" height="70">
                 </div>
+
             </div>
+            <a id="nextStationLink" href="/stationone"></a>
         </div>
     </div>
 

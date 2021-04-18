@@ -22,19 +22,24 @@
     <div class="App">
 
         <div class="navBar">
-            <div class="lang">Espanol</div>
-            <div class="lang">English</div>
+            <div class="langSelect">
+                <div id="langEs" class="lang">Espanol</div>
+                <div id="langEn" class="lang">English</div>
+            </div>
+
+            <div class="centerVertical">
+                <img src="/images/iirdicon.png" alt="Exhibit Icon" width="400" height="410">
+            </div>
         </div>
         <div class="questionContainer">
             <div class="stationHeader">
-                <p class="questionText"> </p>
-                <div class="centerVertical">
-                    <img src="/images/iirdicon.png" alt="Exhibit Icon" width="200" height="210">
+                
                 </div>
-            </div>
+        
             <div id="ex1" class="modal">
                 <div class="modalBody centerVertical">
-                    <p>Thank you for submitting you may now proceed to the next station</p>
+                    <p class="enContent proceedText">Thank you for submitting you may now proceed to the next station</p>
+                    <p class="esContent proceedText">Gracias por su respuesta. Ahora puede pasar a la siguiente estación  </p>
                 </div>
             </div>
 
@@ -43,17 +48,23 @@
                     <p id="name"></p>
                 </div>
             </div>
+            <a id="nextStationLink" href="/archivePermission"></a>
 
-            <form id="answerForm" name="answerForm">
-                <input class="textInput" id="zipcode" name="answerOption" type="text" placeholder="Your Zipcode:">
+            <form class="enContent" id="answerFormen" name="answerForm">
+                <input class="textInput" id="zipcode" name="answerOption" type="text" placeholder="Your Zipcode:  ">
+            </form>
+            
+            <form class="esContent" id="answerFormes" name="answerForm">
+                <input class="textInput" id="zipcode" name="answerOption" type="text" placeholder="Código postal:  ">
             </form>
             <div onclick="submitAnswer('zipcode')" class="submitAnswerButton">
                 <div class="centerVertical">
-                    <p class=" optionText">Submit Answer </p>
-                </div>
+                    <p class="enContent optionText">Submit Answer </p>
+                    <p class="esContent optionText">Someter </p>                </div>
                 <div class="centerVertical">
                     <img src="/images/arrow.png" alt="Exhibit Icon" width="70" height="70">
                 </div>
+            </div>
             </div>
         </div>
     </div>
