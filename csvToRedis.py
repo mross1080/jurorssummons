@@ -24,10 +24,38 @@ def read_csv_data(csv_file):
                 data_for_zipcode = {
                     "zipcode" : row[0],
                     "white_pct" : row[1],
+                    "black_pct" : row[2],
+                    "asian_pct" : row[3],
+                    "latino_pct" : row[6],
                     "unemp_rate" : row[7],
-                    "median_income" : row[13]
+                    "commute_time" : row[8],
+                    "service_pct" : row[9],
+                    "construction_pct" : row[10],
+                    "finance_pct" : row[11],
+                    "maunfacturing_pct" : row[12],
+                    "median_income" : row[13],
+                    "health_insurance_pct" : row[14],
+                    "poverty_pct" : row[15]
                 }
-                zipcode_data[row[0]] = data_for_zipcode
+
+                data_points = [
+                    "{}% White Population".format(data_for_zipcode["white_pct"]),
+                    "{}% Black Population".format(data_for_zipcode["black_pct"]),
+                    "{}% Asian Population".format(data_for_zipcode["asian_pct"]),
+                    "{}% Latino Population".format(data_for_zipcode["latino_pct"]),
+                    "{} Unemployment Rate".format(data_for_zipcode["unemp_rate"]),
+                    "{} Average Commute Time".format(data_for_zipcode["commute_time"]),
+                    "{}% Work in the Service Industry".format(data_for_zipcode["service_pct"]),
+                    "{}% Work in the Construction Industry".format(data_for_zipcode["construction_pct"]),
+                    "{}% Work in the Finance Industry".format(data_for_zipcode["finance_pct"]),
+                    "{}% Work in the Manufacturing Industry".format(data_for_zipcode["maunfacturing_pct"]),
+                    "${} Median Income".format(data_for_zipcode["median_income"]),
+                    "{}% Have Health Insurance".format(data_for_zipcode["health_insurance_pct"]),
+                    "{}% Families live below the Poverty Line".format(data_for_zipcode["poverty_pct"]),
+                ]
+
+
+                zipcode_data[row[0]] = data_points
                 print(
                     data_for_zipcode)
                 line_count += 1

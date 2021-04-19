@@ -3,7 +3,7 @@ from docx.shared import Pt
 from docx.enum.style import WD_STYLE_TYPE
 import subprocess
 import json
-
+import random 
 
 def testPrint():
     print("Connected to formatter")
@@ -57,8 +57,10 @@ def formatDocument(userInfo):
 
     print("Creating Document using this info")
     print(userInfo)
+    random_data_points = random.sample(range(1, len(data_for_zip)), 3)
 
     for paragraph in doc.paragraphs:
+        print(paragraph.text)
 
         if '[DATE]' in paragraph.text:
             paragraph.style = 'Insertion'
@@ -97,21 +99,30 @@ def formatDocument(userInfo):
             paragraph.text = "Your weekly sugar intake is {}.".format(
                 userInfo["sugarIntake"])
 
+        print("parsing random values")
         if '[XX%]' in paragraph.text:
+            print("seeing")
             paragraph.style = 'Insertion'
-            populationPercentage = data_for_zip["white_pct"]
-            paragraph.text = '{}% White Population'.format(
-                populationPercentage)
+            # populationPercentage = data_for_zip["white_pct"]
+            print(data_for_zip[random_data_points[0]])
+            paragraph.text = data_for_zip[random_data_points[0]]
+            print("d")
+            # paragraph.text = '{}% White Population'.format(
+            #     populationPercentage)
 
         if '[YY%]' in paragraph.text:
             paragraph.style = 'Insertion'
-            medianIncome = data_for_zip["median_income"]
-            paragraph.text = '${} Median Income'.format(medianIncome)
+            # medianIncome = data_for_zip["median_income"]
+            # paragraph.text = '${} Median Income'.format(medianIncome)
+            paragraph.text =  data_for_zip[random_data_points[1]]
+
 
         if '[ZZ%]' in paragraph.text:
             paragraph.style = 'Insertion'
-            unemploymentRate = data_for_zip["unemp_rate"]
-            paragraph.text = '{}% Unemployment rate'.format(unemploymentRate)
+            # unemploymentRate = data_for_zip["unemp_rate"]
+            # paragraph.text = '{}% Unemployment rate'.format(unemploymentRate)
+            paragraph.text =  data_for_zip[random_data_points[2]]
+            
 
     doc_name = '{}.docx'.format(userInfo["userName"])
     doc.save(doc_name)
@@ -124,6 +135,6 @@ def formatDocument(userInfo):
 
 if __name__ == "__main__":
     try:
-        formatDocument({'userName': 's', 'userId': 'd63142d7cf6f53a093ebc32ae1448f18', 'a1': '1', 'a2': '1', 'a3': '1', 'zipcode': '11222', 'sugarIntake': '1', 'archivePermission': '1', 'lang': 'en'})
+        formatDocument({'userName': 's22', 'userId': 'd63142d7cf6f53a093ebc32ae1448f18', 'a1': '1', 'a2': '1', 'a3': '1', 'zipcode': '11222', 'sugarIntake': '1', 'archivePermission': '1', 'lang': 'en'})
     except Exception as e:
         print(e)
