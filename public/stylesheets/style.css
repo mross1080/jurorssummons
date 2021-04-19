@@ -132,7 +132,7 @@ select:-webkit-autofill:focus{
 }
 
 .langSelect{
-  width: 35vw;
+  width: 32vw;
   display: flex;
   justify-content: space-between;
   height: 4vh;
@@ -188,6 +188,7 @@ flex-direction: row;
   justify-content: start;
   flex-shrink: 3;
   margin-left: 20px;
+  font-size: 3vh
 }
 .iconContainer{
   justify-content: end;
