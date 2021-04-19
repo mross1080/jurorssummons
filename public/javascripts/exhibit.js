@@ -42,7 +42,7 @@ function retrieveUserData() {
       $("#ex2").modal({
         fadeDuration: 500
       });
-      document.getElementById("name").innerText = `Hello ${userData.userName}`
+      document.getElementById("name").innerText = ` ${userData.userName}`
 
 
    

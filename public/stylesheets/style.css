@@ -71,6 +71,10 @@ select:-webkit-autofill:focus{
   outline: 0;
   font-family: RubikOne;
   background: black !important;
+  border-top: none;
+  border-right: 2px sold white;
+  border-left: none;
+
   border-bottom: 2px solid white;
   width: 80vw;
   height: 100px;
@@ -148,6 +152,18 @@ select:-webkit-autofill:focus{
   font-size: 3vh;
 
 
+}
+
+/* input[type='text'],
+input[type='number'],
+textarea {
+  font-size: 36px;
+} */
+
+input[type='text'],textarea {font-size:1em;}
+
+#logoImg{
+  margin-top: -40px;
 }
 /* 
 input[type="radio"]:checked+label { 

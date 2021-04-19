@@ -2,6 +2,7 @@
 <html>
 
 <head>
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> -->
     <title>
         <%= title %>
     </title>
@@ -28,7 +29,7 @@
             </div>
 
             <div class="centerVertical">
-                <img src="/images/iirdicon.png" alt="Exhibit Icon" width="400" height="410">
+                <img id="logoImg" src="/images/iirdicon.png" alt="Exhibit Icon" width="400" height="410">
             </div>
         </div>
         <div class="questionContainer">
@@ -48,7 +49,7 @@
                     <p id="name"></p>
                 </div>
             </div>
-            <a id="nextStationLink" href="/archivePermission"></a>
+            <a id="nextStationLink" href="/print"></a>
 
             <form class="enContent" id="answerFormen" name="answerForm">
                 <input class="textInput" id="zipcode" name="answerOption" type="text" placeholder="Your Zipcode:  ">
