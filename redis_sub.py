@@ -24,10 +24,12 @@ def sub(name: str):
             formatDocument(data)
             # print("%s : %s" % (name, data))
         except Exception as e:
+            print("Got exception while trying to print ")
             print(e)
        
 
 
 if __name__ == "__main__":
    testPrint()
-   Process(target=sub, args=("reader1",)).start()
+   sub("")
+#    Process(target=sub, args=("reader1",)).start()
