@@ -28,7 +28,7 @@ router.get('/es', function (req, res, next) {
   res.render('index', { 
     title: 'Jurors Summons',
      station: 'Welcome Station',
-    submit:"Someter",
+    submit:"Enviar",
     namePlaceholder:"Su Nombre",
     modalMessage:"Gracias por su respuesta. Ahora puede pasar a la siguiente estación"
    });
