@@ -79,6 +79,10 @@ router.get('/archivePermission', function (req, res, next) {
   res.render('archivePermission', { title: 'Jurors Summons', station: 'Welcome Station' });
 });
 
+router.get('/message', function (req, res, next) {
+
+  res.render('message', { title: 'Civilian Reviewer', station: 'Welcome Station' });
+});
 
 
 function setAnswerForStation(res, station, userId, answer) {

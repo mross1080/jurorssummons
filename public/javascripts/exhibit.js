@@ -91,6 +91,8 @@ function retrieveUserData() {
             fadeDuration: 300
           });
 
+    
+
           document.getElementById("nextStationLink").click()
     
         //   setTimeout(function() {
