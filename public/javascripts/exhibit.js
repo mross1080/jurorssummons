@@ -39,14 +39,14 @@ function retrieveUserData() {
 
       }
 
-      $("#ex2").modal({
-        fadeDuration: 500
-      });
-      document.getElementById("name").innerText = ` ${userData.userName}`
+      // $("#ex2").modal({
+      //   fadeDuration: 500
+      // });
+      // document.getElementById("name").innerText = ` ${userData.userName}`
 
 
    
-      setTimeout(function() { $(".blocker").click()}, 3000)
+      // setTimeout(function() { $(".blocker").click()}, 3000)
 
 
 
