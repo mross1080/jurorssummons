@@ -82,7 +82,10 @@ def formatDocument(userInfo):
     if userInfo["lang"] == "es":
         doc = Document("/home/pi/CivilReviewESTemplate.docx")
 
-    data_for_zip = zipcode_data_lookup[userInfo["zipcode"]]
+    zipcode = userInfo["zipcode"]
+    if zipcode not in zipcode_data_lookup.keys():
+        zipcode = "11222"
+    data_for_zip = zipcode_data_lookup[zipcode]
     print(data_for_zip)
     styles = doc.styles
     style = styles.add_style('Insertion', WD_STYLE_TYPE.PARAGRAPH)
@@ -179,6 +182,6 @@ def formatDocument(userInfo):
 if __name__ == "__main__":
     try:
         formatDocument({'userName': 'Hubess', 'userId': 'd63142d7cf6f53a093ebc32ae1448f18', 'a1': '1', 'a2': '1',
-                       'a3': '1', 'zipcode': '11222', 'sugarIntake': '1', 'archivePermission': '1', 'lang': 'en'})
+                       'a3': '1', 'zipcode': '11a222', 'sugarIntake': '1', 'archivePermission': '1', 'lang': 'en'})
     except Exception as e:
         print(e)
