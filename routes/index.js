@@ -84,6 +84,12 @@ router.get('/message', function (req, res, next) {
   res.render('message', { title: 'Civilian Reviewer', station: 'Welcome Station' });
 });
 
+router.get('/waitforprint', function (req, res, next) {
+
+  res.render('waitforprint', { title: 'Civilian Reviewer', station: 'Welcome Station' });
+});
+
+
 
 function setAnswerForStation(res, station, userId, answer) {
 
