@@ -47,7 +47,14 @@ function registerUser() {
     let lang  = document.forms["langForm"].elements["answerOption"].value
 
     console.log(name)
-    makeRequest(name,lang)
+    if (name != "" ) {
+      makeRequest(name,lang)
+
+    } else{
+      $("#ex2").modal({
+        fadeDuration: 300
+      });
+    }
 
 }
 

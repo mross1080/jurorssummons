@@ -45,13 +45,13 @@ answer_lookup = {
             "Yes!": " conoce o ha oído",
             "No!": " no conoce y no ha oído"
         },
-        "a2": {
+        "a3": {
             "1": "totalmente implicado",
             "2": "modestamente implicado",
             "3": "ligeramente implicado",
             "4": "para nada implicado"
         },
-        "a3": {
+        "a2": {
             "1": "cómo te ves e identificas",
             "2": "como otres te ven e identifican",
             "3": "todo lo anterior",
@@ -179,7 +179,7 @@ def formatDocument(userInfo):
 
 if __name__ == "__main__":
     try:
-        formatDocument({'userName': 'V', 'userId': 'd63142d7cf6f53a093ebc32ae1448f18', 'a1': '1', 'a2': '2',
-                       'a3': '1', 'zipcode': '11222', 'sugarIntake': '3', 'archivePermission': '1', 'lang': 'en'})
+        formatDocument({'userName': 'Vs', 'userId': 'd63142d7cf6f53a093ebc32ae1448f18', 'a1': '1', 'a2': '2',
+                       'a3': '1', 'zipcode': '11222', 'sugarIntake': '3', 'archivePermission': '1', 'lang': 'es'})
     except Exception as e:
         print(e)

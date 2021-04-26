@@ -11,7 +11,7 @@ for key in redis_conn.keys():
     
     try:
         data = json.loads(redis_conn.get(key))
-
+        print(data)
         if (data["userName"] == userNameQuery):
             print(data)
     except Exception as e:
