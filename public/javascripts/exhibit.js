@@ -27,6 +27,19 @@ function retrieveUserData() {
         console.log("Look at this data!")
         let userData = (JSON.parse(data.name))
       console.log(JSON.parse(data.name));
+      if (userData == null) {
+        $(".esContent").hide()
+        $(".enContent").hide()
+
+        $(".questionContainer").append("<p>Please register to be a civilian reviewer in the first station before accessing this question</p><br>")
+        $(".questionContainer").append("<p> Regístrese para ser un evaluador civil en la primera esatción antes de acceder a esta pregunta</p>")
+
+        $(".questionContainer").css("margin-top","250px")
+        $(".submitAnswerButton").hide()
+        $(".lang").hide()
+      } else {
+
+      
 
       if (userData.lang === "en") {
         $(".esContent").hide()
@@ -44,7 +57,7 @@ function retrieveUserData() {
       // });
       document.getElementById("nameEN").innerText = ` ${userData.userName}`
       document.getElementById("nameES").innerText = ` ${userData.userName}`
-
+    }
 
    
       // setTimeout(function() { $(".blocker").click()}, 3000)
