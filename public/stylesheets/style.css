@@ -259,6 +259,14 @@ flex-direction: row;
 
 }
 
+#nationalitySelect {
+  font-size: 73px !important;
+}
+
+.selectOption{
+  font-size: 20px;
+}
+
 .fadeInContent {
 
   animation: fadeIn linear 2s;
@@ -292,3 +300,5 @@ flex-direction: row;
   0% {opacity:0;}
   100% {opacity:1;}
 }
+
+

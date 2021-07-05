@@ -79,6 +79,11 @@ router.get('/archivePermission', function (req, res, next) {
   res.render('archivePermission', { title: 'Jurors Summons', station: 'Welcome Station' });
 });
 
+router.get('/selectcountry', function (req, res, next) {
+
+  res.render('selectcountry', { title: 'Jurors Summons', station: 'Welcome Station' });
+});
+
 router.get('/message', function (req, res, next) {
 
   res.render('message', { title: 'Civilian Reviewer', station: 'Welcome Station' });
@@ -189,6 +194,16 @@ router.get('/zipcodeanswer', function (req, res, next) {
 
   setAnswerForStation(res, "zipcode", req.query.fingerprintId, req.query.answer)
 });
+
+
+router.get('/selectcountryanswer', function (req, res, next) {
+  console.log("Got new user ")
+  console.log(req.query)
+
+  setAnswerForStation(res, "zipcode", req.query.fingerprintId, req.query.answer)
+});
+
+
 
 router.get('/printanswer', function (req, res, next) {
   console.log("Got command to print ")

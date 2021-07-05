@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> -->
+    <title>
+        <%= title %>
+    </title>
+    <link rel='stylesheet' href='/stylesheets/jquery.modal.min.css' />
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+
+</head>
+<script src="/javascripts/jquery.min.js">  </script>
+<script src="/javascripts/jquery.modal.min.js">  </script>
+
+<!-- jQuery Modal -->
+<script src="/javascripts/exhibit.js">  </script>
+<script async src="/javascripts/fp.min.js" onload="initFingerprintJS()"></script>
+<link id="theme-sheet" href="/stylesheets/flax.css" rel="stylesheet"/>
+
+<script src="/javascripts/easydropdown.min.js"/>
+
+
+</script>
+
+<body>
+    <div class="App">
+
+        <div class="navBar">
+            <div class="langSelect">
+                <div id="langEs" class="lang">Español</div>
+                <div id="langEn" class="lang">English</div>
+            </div>
+
+            <div class="centerVertical">
+                <img id="logoImg" src="/images/iirdicon.png" alt="Exhibit Icon" width="400" height="410">
+            </div>
+        </div>
+        <div class="questionContainer fadeInContent">
+            <div class="stationHeader">
+                
+                </div>
+        
+            <div id="ex1" class="modal">
+                <div class="modalBody centerVertical">
+                    <p class="enContent proceedText">Thank you for submitting you may now proceed to the next station</p>
+                    <p class="esContent proceedText">Gracias por su respuesta. Ahora puede pasar a la siguiente estación  </p>
+                </div>
+            </div>
+
+            <div id="ex2" class="modal">
+                <div class="modalContent">
+                    <p id="name"></p>
+                </div>
+            </div>
+            <a id="nextStationLink" href="/print"></a>
+            <select name="foo" class="textInput" id="nationalitySelec">
+                <option class="selectOption" value="">Nationality</option>
+                <option class='selectOption' value='0'>France</option>
+                <option class='selectOption' value='1'>Netherlands</option>
+                <option class='selectOption' value='2'>Germany</option>
+                <option class='selectOption' value='3'>Denmark</option>
+                <option class='selectOption' value='4'>Sweden</option>
+                <option class='selectOption' value='5'>Norway</option>
+                <option class='selectOption' value='6'>Iceland</option>
+                <option class='selectOption' value='7'>Finland</option>
+                <option class='selectOption' value='8'>Italy</option>
+                <option class='selectOption' value='9'>United Kingdom</option>
+                <option class='selectOption' value='10'>Ireland</option>
+                <option class='selectOption' value='11'>Spain</option>
+                <option class='selectOption' value='12'>Switzerland</option>
+                <option class='selectOption' value='13'>Belgium</option>
+                <option class='selectOption' value='14'>Austria</option>
+                <option class='selectOption' value='15'>Czech Republic</option>
+                <option class='selectOption' value='16'>Portugal</option>
+                <option class='selectOption' value='17'>Luxembourg</option>
+                <option class='selectOption' value='18'>Liechtenstein</option>
+                <option class='selectOption' value='19'>Slovenia</option>
+                <option class='selectOption' value='20'>Malta</option>
+                <option class='selectOption' value='21'>Hungary</option>
+                <option class='selectOption' value='22'>Slovakia</option>
+                <option class='selectOption' value='23'>Greece</option>
+                <option class='selectOption' value='24'>Estonia</option>
+                <option class='selectOption' value='25'>Poland</option>
+                <option class='selectOption' value='26'>Lithuania</option>
+                <option class='selectOption' value='27'>Latvia</option>
+                <option class='selectOption' value='28'>Cyprus</option>
+                <option class='selectOption' value='29'>Romania</option>
+                <option class='selectOption' value='30'>Bulgaria</option>
+                <option class='selectOption' value='31'>Croatia</option>
+                <option class='selectOption' value='32'>United States</option>
+                <option class='selectOption' value='33'>Japan</option>
+                <option class='selectOption' value='34'>British overseas territories (Gibraltar)</option>
+                <option class='selectOption' value='35'>Canada</option>
+                <option class='selectOption' value='36'>Australia</option>
+                <option class='selectOption' value='37'>Chile</option>
+                <option class='selectOption' value='38'>Singapore</option>
+                <option class='selectOption' value='39'>New Zealand</option>
+                <option class='selectOption' value='40'>Argentina</option>
+                <option class='selectOption' value='41'>Brazil</option>
+                <option class='selectOption' value='42'>Korea (Republic of)</option>
+                <option class='selectOption' value='43'>Jersey</option>
+                <option class='selectOption' value='44'>Guernsey</option>
+                <option class='selectOption' value='45'>Isle of Man</option>
+                <option class='selectOption' value='46'>Monaco</option>
+                <option class='selectOption' value='47'>Andorra</option>
+                <option class='selectOption' value='48'>San Marino</option>
+                <option class='selectOption' value='49'>Malaysia</option>
+                <option class='selectOption' value='50'>Uruguay</option>
+                <option class='selectOption' value='51'>United Arab Emirates</option>
+                <option class='selectOption' value='52'>Brunei Darussalam</option>
+                <option class='selectOption' value='53'>Hong Kong, China (SAR)</option>
+                <option class='selectOption' value='54'>Antigua and Barbuda</option>
+                <option class='selectOption' value='55'>Saint Kitts and Nevis</option>
+                <option class='selectOption' value='56'>Paraguay</option>
+                <option class='selectOption' value='57'>Israel</option>
+                <option class='selectOption' value='58'>Barbados</option>
+                <option class='selectOption' value='59'>Saint Vincent and the Grenadines</option>
+                <option class='selectOption' value='60'>Seychelles</option>
+                <option class='selectOption' value='61'>Chinese Taipei (Taiwan)</option>
+                <option class='selectOption' value='62'>Mexico</option>
+                <option class='selectOption' value='63'>Grenada</option>
+                <option class='selectOption' value='64'>Peru</option>
+                <option class='selectOption' value='65'>Bahamas</option>
+                <option class='selectOption' value='66'>Costa Rica</option>
+                <option class='selectOption' value='67'>Saint Lucia</option>
+                <option class='selectOption' value='68'>Mauritius</option>
+                <option class='selectOption' value='69'>China</option>
+                <option class='selectOption' value='70'>Venezuela (Bolivarian Republic of)</option>
+                <option class='selectOption' value='71'>Commonwealth of Dominica</option>
+                <option class='selectOption' value='72'>Panama</option>
+                <option class='selectOption' value='73'>Macao</option>
+                <option class='selectOption' value='74'>Colombia</option>
+                <option class='selectOption' value='75'>Trinidad and Tobago</option>
+                <option class='selectOption' value='76'>Palau</option>
+                <option class='selectOption' value='77'>Serbia</option>
+                <option class='selectOption' value='78'>Russian Federation</option>
+                <option class='selectOption' value='79'>Marshall Islands</option>
+                <option class='selectOption' value='80'>Montenegro</option>
+                <option class='selectOption' value='81'>Micronesia (Federated States of)</option>
+                <option class='selectOption' value='82'>El Salvador</option>
+                <option class='selectOption' value='83'>Samoa</option>
+                <option class='selectOption' value='84'>Macedonia</option>
+                <option class='selectOption' value='85'>Honduras</option>
+                <option class='selectOption' value='86'>Ecuador</option>
+                <option class='selectOption' value='87'>Guatemala</option>
+                <option class='selectOption' value='88'>Kuwait</option>
+                <option class='selectOption' value='89'>Bosnia and Herzegovina</option>
+                <option class='selectOption' value='90'>Albania</option>
+                <option class='selectOption' value='91'>Tonga</option>
+                <option class='selectOption' value='92'>Moldova (Republic of)</option>
+                <option class='selectOption' value='93'>Tuvalu</option>
+                <option class='selectOption' value='94'>Nicaragua</option>
+                <option class='selectOption' value='95'>Ukraine</option>
+                <option class='selectOption' value='96'>Turkey</option>
+                <option class='selectOption' value='97'>Georgia</option>
+                <option class='selectOption' value='98'>Qatar</option>
+                <option class='selectOption' value='99'>Vanuatu</option>
+                <option class='selectOption' value='100'>Oman</option>
+                <option class='selectOption' value='101'>Kiribati</option>
+                <option class='selectOption' value='102'>Solomon Islands</option>
+                <option class='selectOption' value='103'>Saudi Arabia</option>
+                <option class='selectOption' value='104'>Bahrain</option>
+                <option class='selectOption' value='105'>Bolivia (Plurinational State of)</option>
+                <option class='selectOption' value='106'>Kazakhstan</option>
+                <option class='selectOption' value='107'>South Africa</option>
+                <option class='selectOption' value='108'>Belarus</option>
+                <option class='selectOption' value='109'>Cape Verde</option>
+                <option class='selectOption' value='110'>Belize</option>
+                <option class='selectOption' value='111'>Ghana</option>
+                <option class='selectOption' value='112'>Guyana</option>
+                <option class='selectOption' value='113'>Fiji</option>
+                <option class='selectOption' value='114'>Suriname</option>
+                <option class='selectOption' value='115'>Timor-Leste</option>
+                <option class='selectOption' value='116'>Maldives</option>
+                <option class='selectOption' value='117'>Botswana</option>
+                <option class='selectOption' value='118'>Thailand</option>
+                <option class='selectOption' value='119'>Gambia</option>
+                <option class='selectOption' value='120'>India</option>
+                <option class='selectOption' value='121'>Nauru</option>
+                <option class='selectOption' value='122'>Jamaica</option>
+                <option class='selectOption' value='123'>Indonesia</option>
+                <option class='selectOption' value='124'>Benin</option>
+                <option class='selectOption' value='125'>Armenia</option>
+                <option class='selectOption' value='126'>Senegal</option>
+                <option class='selectOption' value='127'>Sierra Leone</option>
+                <option class='selectOption' value='128'>Israeli Laissez-passer </option>
+                <option class='selectOption' value='129'>Latvia (Non-Citzen)</option>
+                <option class='selectOption' value='130'>Kyrgyzstan</option>
+                <option class='selectOption' value='131'>Togo</option>
+                <option class='selectOption' value='132'>Dominican Republic</option>
+                <option class='selectOption' value='133'>Azerbaijan</option>
+                <option class='selectOption' value='134'>Namibia</option>
+                <option class='selectOption' value='135'>Côte d'Ivoire</option>
+                <option class='selectOption' value='136'>Cuba</option>
+                <option class='selectOption' value='137'>Tunisia</option>
+                <option class='selectOption' value='138'>Guinea</option>
+                <option class='selectOption' value='139'>Burkina Faso</option>
+                <option class='selectOption' value='140'>Mongolia</option>
+                <option class='selectOption' value='141'>Uzbekistan</option>
+                <option class='selectOption' value='142'>Guinea-Bissau</option>
+                <option class='selectOption' value='143'>Papua New Guinea</option>
+                <option class='selectOption' value='144'>Liberia</option>
+                <option class='selectOption' value='145'>Morocco</option>
+                <option class='selectOption' value='146'>Nigeria</option>
+                <option class='selectOption' value='147'>Tajikistan</option>
+                <option class='selectOption' value='148'>Philippines</option>
+                <option class='selectOption' value='149'>Mali</option>
+                <option class='selectOption' value='150'>Swaziland</option>
+                <option class='selectOption' value='151'>Zambia</option>
+                <option class='selectOption' value='152'>Bhutan</option>
+                <option class='selectOption' value='153'>Niger</option>
+                <option class='selectOption' value='154'>Algeria</option>
+                <option class='selectOption' value='155'>Tanzania (United Republic of)</option>
+                <option class='selectOption' value='156'>Kenya</option>
+                <option class='selectOption' value='157'>Gabon</option>
+                <option class='selectOption' value='158'>Jordan</option>
+                <option class='selectOption' value='159'>Viet Nam</option>
+                <option class='selectOption' value='160'>Turkmenistan</option>
+                <option class='selectOption' value='161'>Lesotho</option>
+                <option class='selectOption' value='162'>Malawi</option>
+                <option class='selectOption' value='163'>Sri Lanka</option>
+                <option class='selectOption' value='164'>Iran (Islamic Republic of)</option>
+                <option class='selectOption' value='165'>Sao Tome and Principe</option>
+                <option class='selectOption' value='166'>Egypt</option>
+                <option class='selectOption' value='167'>Kosovo</option>
+                <option class='selectOption' value='168'>Lao People's Democratic Republic</option>
+                <option class='selectOption' value='169'>British Nationals (Overseas)</option>
+                <option class='selectOption' value='170'>Uganda</option>
+                <option class='selectOption' value='171'>Lebanon</option>
+                <option class='selectOption' value='172'>British overseas territories </option>
+                <option class='selectOption' value='173'>Zimbabwe</option>
+                <option class='selectOption' value='174'>Equatorial Guinea</option>
+                <option class='selectOption' value='175'>Cambodia</option>
+                <option class='selectOption' value='176'>Madagascar</option>
+                <option class='selectOption' value='177'>Angola</option>
+                <option class='selectOption' value='178'>Comoros</option>
+                <option class='selectOption' value='179'>Mauritania</option>
+                <option class='selectOption' value='180'>Bangladesh</option>
+                <option class='selectOption' value='181'>Haiti</option>
+                <option class='selectOption' value='182'>Rwanda</option>
+                <option class='selectOption' value='183'>Mozambique</option>
+                <option class='selectOption' value='184'>Congo (Republic of the)</option>
+                <option class='selectOption' value='185'>Palestinian Territory</option>
+                <option class='selectOption' value='186'>Myanmar</option>
+                <option class='selectOption' value='187'>Nepal</option>
+                <option class='selectOption' value='188'>Korea (DPRK)</option>
+                <option class='selectOption' value='189'>British Overseas citizens </option>
+                <option class='selectOption' value='190'>British protected persons</option>
+                <option class='selectOption' value='191'>British subjects</option>
+                <option class='selectOption' value='192'>Cameroon</option>
+                <option class='selectOption' value='193'>Djibouti</option>
+                <option class='selectOption' value='194'>Libya</option>
+                <option class='selectOption' value='195'>Chad</option>
+                <option class='selectOption' value='196'>Burundi</option>
+                <option class='selectOption' value='197'>Ethiopia</option>
+                <option class='selectOption' value='198'>Iraq</option>
+                <option class='selectOption' value='199'>Pakistan</option>
+                <option class='selectOption' value='200'>Sudan (Republic of the)</option>
+                <option class='selectOption' value='201'>Eritrea</option>
+                <option class='selectOption' value='202'>Congo (Democratic Republic of the)</option>
+                <option class='selectOption' value='203'>Central African Republic</option>
+                <option class='selectOption' value='204'>Yemen</option>
+                <option class='selectOption' value='205'>Syrian Arab Republic</option>
+                <option class='selectOption' value='206'>South Sudan</option>
+                <option class='selectOption' value='207'>Afghanistan</option>
+                <option class='selectOption' value='208'>Somalia</option>
+                
+            </select>
+            <div onclick="submitAnswer('selectcountry')" class="submitAnswerButton">
+                <div class="centerVertical">
+                    <p class="enContent optionText">Submit Answer </p>
+                    <p class="esContent optionText">Enviar </p>                </div>
+                <div class="centerVertical">
+                    <img src="/images/arrow.png" alt="Exhibit Icon" width="70" height="70">
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+</body>
+<script>
+    const selectElement = document.querySelector('#nationalitySelect');
+
+const edd = easydropdown(selectElement);
+</script>
+
+</html>

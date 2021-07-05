@@ -1,0 +1,10 @@
+
+{'userName': 'deri', 'userId': '1f2e9c1c577290c4cbf973f0e7cec1c0', 'a1': 'Yes!', 'a2': '', 'a3': '', 'zipcode': ''}
+{'userName': 'Hyg', 'userId': '8750fa651e1a6c669505961815995353', 'a1': '', 'a2': '', 'a3': '', 'zipcode': 'Wueue'}
+{'userName': 'eeed', 'userId': 'b57760933426a1775942010574e31c98', 'a1': '1', 'a2': '1', 'a3': '1', 'zipcode': '1', 'sugarIntake': '1', 'archivePermission': '1', 'lang': 'en'}
+{'userName': 'adsfg', 'userId': 'f7aed0c01c924b97fbdc35980635653d', 'a1': '', 'a2': '', 'a3': '', 'zipcode': '', 'sugarIntake': '', 'archivePermission': ''}
+{'userName': 'asdf', 'userId': '2c594270510ebcd8649afd6e7e748035', 'a1': '', 'a2': '1', 'a3': '', 'zipcode': ''}
+{'userName': 'Aika Akhmetova', 'userId': '53a7676451af54d50206723b33e9b1b0', 'a1': '1', 'a2': '2', 'a3': '1', 'zipcode': '11207', 'sugarIntake': '2', 'archivePermission': '1', 'lang': 'en'}
+{'userName': 'Ariel Adkins', 'userId': '0672fbc48f9b4a75da4c506a9449dacd', 'a1': '2', 'a2': '2', 'a3': '1', 'zipcode': '11217', 'sugarIntake': '3', 'archivePermission': '1', 'lang': 'en'}
+{'userName': 'Dilon', 'userId': '5a66418d7434c6dba9ad65f994a6216d', 'a1': '', 'a2': '', 'a3': '', 'zipcode': ''}
+{'userName': 'saaa', 'userId': 'e767ca59388bdeebb7d6078ffda12751', 'a1': '1', 'a2': '1', 'a3': '1', 'zipcode': '11222', 'sugarIntake': '1', 'archivePermission': '1', 'lang': 'es'}
