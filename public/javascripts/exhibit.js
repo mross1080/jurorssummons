@@ -81,7 +81,12 @@ function retrieveUserData() {
 
     if (stationName == "print") {
       answer = "ready"
-    } else {
+    } else if (stationName=="selectcountry") {
+
+      answer = document.getElementById("nationalitySelect").value
+      console.log("Country ",answer)
+
+    }else {
       answer = document.forms[`answerForm${lang}`].elements["answerOption"].value
     }
 
