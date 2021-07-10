@@ -200,7 +200,7 @@ router.get('/selectcountryanswer', function (req, res, next) {
   console.log("Got new user ")
   console.log(req.query)
 
-  setAnswerForStation(res, "zipcode", req.query.fingerprintId, req.query.answer)
+  setAnswerForStation(res, "countryName", req.query.fingerprintId, req.query.answer)
 });
 
 
@@ -247,7 +247,7 @@ let userInfo = {
   "a1": "1",
   "a2": "1",
   "a3": "1",
-  "zipcode": "11222",
+  "countryName": "Spain",
   "sugarIntake":"1",
   "archivePermission":"1",
   "lang" : "en"

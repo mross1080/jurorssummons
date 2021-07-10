@@ -74,6 +74,19 @@ function retrieveUserData() {
 });
 
 }
+const log = console.log;
+const areaSelect = document.querySelector(`[id="nationalitySelect"]`);
+
+areaSelect.addEventListener(`change`, (e) => {
+  // log(`e.target`, e.target);
+  const select = e.target;
+  const value = select.value;
+  const desc = select.options[select.selectedIndex].text;
+  console.log("value ", value)
+  console.log(`option desc`, desc);
+});
+
+
 
 
   function submitAnswer(stationName) {

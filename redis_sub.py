@@ -7,7 +7,7 @@ from formatPrintout import testPrint, formatDocument
 
 print("STARTED REDIS CON, SCRIPT")
 print("SLEEPING FOR 15 SECONDS TO ALLOW INTERNET CONNECTION")
-time.sleep(15)
+# time.sleep(15)
 redis_conn = redis.Redis(  host= 'redis-14390.c256.us-east-1-2.ec2.cloud.redislabs.com',
   port= '14390',
   password= 'EEDPLADvHhC12ziP5B2m2skqO7ZRv24i',charset="utf-8", decode_responses=True)

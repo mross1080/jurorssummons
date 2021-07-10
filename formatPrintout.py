@@ -10,26 +10,34 @@ import random
 def testPrint():
     print("Connected to formatter")
 
+correct_answers = {
+    "a1" : "1",
+    "a2" : "1",
+    "a3" : "1",
+    "sugarIntake" : "4",
+}
+
+
+count =0
+
 
 answer_lookup = {
     "en": {
         "a1": {
-            "1": "do",
-            "2": "have",
-            "Yes!": "do",
-            "No!": "have"
+            "1": "Very important",
+            "2": "Somewhat important",
+            "3": "Slightly important",
+            "4": "Not important at all"
         },
         "a3": {
-            "1": "fully Implicated",
-            "2": "modestly implicated",
-            "3": "slightly implicated",
-            "4": "not implicated at all"
+            "1": "Agree",
+            "2": "Disagree"
         },
         "a2": {
-            "1": "how you see and identify yourself",
-            "2": "how others see and identify you",
-            "3": "how you see yourself and how others see you",
-            "4": "nothing"
+            "1": "Very Close",
+            "2": "Somewhat Close",
+            "3": "Someone I know is stateless",
+            "4": "I don't know anyone"
         },
         "sugarIntake": {
             "1": "high",
@@ -67,26 +75,53 @@ answer_lookup = {
 }
 
 
+from docx.oxml import OxmlElement
+from docx.oxml.ns import qn
+
+def checkedElement():
+    elm = OxmlElement('w:checked')
+    elm.set(qn('w:val'),"true")
+    return elm
+
 zipcode_data_lookup = {}
+country_index_score = {}
 
+# with open('/home/pi/zipcode_data.txt') as json_file:
+#     zipcode_data_lookup = json.load(json_file)
 
-with open('/home/pi/zipcode_data.txt') as json_file:
-    zipcode_data_lookup = json.load(json_file)
+with open('country_json_data.json', 'r') as myfile:
+    data=myfile.read()
+
+# parse file
+country_index_score = json.loads(data)
+
+def score_answers(userInfo, country_score):
+    number_correct = 0
+    for answer in correct_answers:
+        print(answer, userInfo[answer])
+        if (userInfo[answer] == correct_answers[answer]):
+            print("Correct")
+            number_correct +=1
+
+    if country_score <= 23.6:
+        number_correct +=1 
+    return number_correct
 
 
 def formatDocument(userInfo):
     print("Starting Custom Print Job")
-
-    doc = Document("/home/pi/CivilReviewENTemplate.docx")
+    print(userInfo)
+    doc = Document("/home/pi/CivilResponsesEN.docx")
     lang = userInfo["lang"]
     if userInfo["lang"] == "es":
         doc = Document("/home/pi/CivilReviewESTemplate.docx")
 
-    zipcode = userInfo["zipcode"]
-    if zipcode not in zipcode_data_lookup.keys():
-        zipcode = "11222"
-    data_for_zip = zipcode_data_lookup[zipcode]
-    print(data_for_zip)
+
+    country_name = country_index_score[userInfo["countryName"]]["country_name"]
+    country_score = float(country_index_score[userInfo["countryName"]]["score"])
+
+    print(country_name, country_score)
+
     styles = doc.styles
     style = styles.add_style('Insertion', WD_STYLE_TYPE.PARAGRAPH)
     style = doc.styles['Insertion']
@@ -94,9 +129,15 @@ def formatDocument(userInfo):
     font.name = 'Helvetica'
     font.size = Pt(18)
 
+
+    num_correct = score_answers(userInfo, country_score)
+    qualify_status = "QUALIFY"  if num_correct == 5  else "DISQUALIFY"
+    print("QUALIFY : " , qualify_status)
+    print("NUM CORRECT ", num_correct)
+
+
     print("Creating Document using this info")
     print(userInfo)
-    random_data_points = random.sample(range(1, len(data_for_zip["en"])), 3)
     for paragraph in doc.paragraphs:
         # print(paragraph.text)
 
@@ -112,61 +153,51 @@ def formatDocument(userInfo):
 
         if '[QUALIFYSTATUS]' in paragraph.text:
             paragraph.style = 'Insertion'
-            paragraph.text = 'Result : Disqualify'
+            paragraph.text = 'Result : {}'.format(qualify_status)
             if lang == "es":
                 paragraph.text = "Resultado : No Califica"
 
-        if '[Q1Part1]' in paragraph.text or "[Q1]" in paragraph.text:   
+        if '[Q1 answer]' in paragraph.text:   
             q1Answer = answer_lookup[lang]["a1"][userInfo["a1"]]
-            q1Part1Answer = "[do]" if q1Answer == "do" else "[don't]"
-            q1Part2Answer = "[not]" if q1Answer != "do" else ""
-
 
             if lang == "en":
-                paragraph.text = "You {} know or have {} heard of any of the suspects and witnesses.  To be an impartial reviewer you can not know or have heard of the suspects and witnesses.".format(
-                    q1Part1Answer, q1Part2Answer)
+                paragraph.text = "For you, colonial history is [{}] to our present day.".format(q1Answer)
             else:
                 q1Answer = answer_lookup[lang]["a1"][userInfo["a1"]]
                 paragraph.text = "Usted [{}] de los testigos o los sospechosos.  Para ser un evaluador imparcial, no puede ni conocer, ni haber oído hablar de los sospechosos y testigos.".format(q1Answer)
 
-        if '[Q2]' in paragraph.text:
-            questionTwoAnswer = answer_lookup[lang]["a3"][userInfo["a3"]]
-
-            paragraph.text = "You think the U.S. is [{}] in the racial constructs of the D.R..  To be an impartial reviewer you would have to recognize that the U.S.A. is a cultural, economic, and political hegemonic imperial power.".format(
-                questionTwoAnswer)
+        if '[Q2 answer]' in paragraph.text:
+            questionTwoAnswer = answer_lookup[lang]["a2"][userInfo["a2"]]
+            paragraph.text = "You are [{}] to a person who is stateless.".format(questionTwoAnswer)
+  
             if lang == "es":
                 paragraph.text = "Usted cree que los Estados Unidos está [{}] en las construcciones raciales de R.D..  Para ser un evaluador imparcial, tendría que reconocer que los Estados Unidos es una potencia imperial hegemónica cultural, económica y política.".format(questionTwoAnswer)
 
-        if '[Q3]' in paragraph.text:
-            questionThreeAnswer = answer_lookup[lang]["a2"][userInfo["a2"]]
-            paragraph.text = "For you, [{}] affects your material conditions.  To be an impartial reviewer you would have to see 'othering' mechanisms as tools of control.  ".format(questionThreeAnswer)
+        if '[Q4 answer]' in paragraph.text:
+            questionThreeAnswer = answer_lookup[lang]["a3"][userInfo["a3"]]
+            paragraph.text = "You [{}] that the nation-state is a violent institution.".format(questionThreeAnswer)
             if lang == "es":
                 paragraph.text = "Para usted, [{}] afecta sus condiciones materiales.  Para ser un evaluador imparcial, tendría que ver los mecanismos 'de alteridad' como herramientas de control.".format(questionThreeAnswer)
 
-        if '[Q4]' in paragraph.text:
+        if '[Q3 answer]' in paragraph.text:
             questionFourAnswer = answer_lookup[lang]["sugarIntake"][userInfo["sugarIntake"]]
-            paragraph.text = "Your weekly sugar intake is {}.  To be an impartial reviewer would not consume any sugar.".format(
+            paragraph.text = "Your weekly sugar intake is [{}].  To be an impartial reviewer would not consume any sugar.".format(
                 answer_lookup[lang]["sugarIntake"][userInfo["sugarIntake"]])
             if lang == "es":
                 paragraph.text = "Su consumo semanal de azúcar es [{}].  Para ser un evaluador imparcial, no debería consumir azúcar.".format(questionFourAnswer)
 
-        if '[XX%]' in paragraph.text:
+        if '[ANSWER]' in paragraph.text:
             print("Setting Random Value 1")
             paragraph.style = 'Insertion'
 
-            # print(data_for_zip[random_data_points[0]])
-            paragraph.text = data_for_zip[lang][random_data_points[0]]
+            paragraph.text = "Your [{}] nationality ranks {}% in the Quality of Nationality index".format(country_name,country_score)
 
-
-        if '[YY%]' in paragraph.text or '[$YY]' in paragraph.text:
-            print("Setting Random Value 2")
+        if '[X out of 5]' in paragraph.text:
+            print("Setting Random Value 1")
             paragraph.style = 'Insertion'
-            paragraph.text = data_for_zip[lang][random_data_points[1]]
 
-        if '[ZZ%]' in paragraph.text:
-            print("Setting Random Value 3")
-            paragraph.style = 'Insertion'
-            paragraph.text = data_for_zip[lang][random_data_points[2]]
+            paragraph.text = "You answered [{} out of 5] questions correctly. To be an impartial reviewer you would have to answer all the questions correctly.".format(num_correct)
+
 
     doc_name = '{}.docx'.format(userInfo["userName"])
     doc.save(doc_name)
@@ -175,11 +206,12 @@ def formatDocument(userInfo):
                    "pdf", "{}.docx".format(userInfo["userName"])])
     subprocess.run(
         ["lp", "-d", "myprinter", "{}.pdf".format(userInfo["userName"])])
+    print("Completed Format Of Document")
 
 
 if __name__ == "__main__":
     try:
-        formatDocument({'userName': 'Vs', 'userId': 'd63142d7cf6f53a093ebc32ae1448f18', 'a1': '1', 'a2': '2',
-                       'a3': '1', 'zipcode': '11222', 'sugarIntake': '3', 'archivePermission': '1', 'lang': 'es'})
+        formatDocument({'userName': 'MERRRsRT', 'userId': 'd63142d7cf6f53a093ebc32ae1448f18', 'a1': '1', 'a2': '2',
+                       'a3': '1', 'countryName': "53", 'sugarIntake': '3', 'archivePermission': '1', 'lang': 'en'})
     except Exception as e:
         print(e)
