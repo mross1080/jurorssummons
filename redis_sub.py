@@ -20,9 +20,12 @@ def sub(name: str):
     for message in pubsub.listen():
         try:
             print(message)
-            data = json.loads(message["data"])
-            print(data)
-            formatDocument(data)
+            if (type(message["data"]) == dict):
+                data = json.loads(message["data"])
+                print("Recieved data" , data)
+                formatDocument(data)
+            else:
+                print("Made Connection With Redis Pubsub")
             # print("%s : %s" % (name, data))
         except Exception as e:
             print("Got exception while trying to print ")

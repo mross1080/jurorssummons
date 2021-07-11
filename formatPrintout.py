@@ -114,7 +114,7 @@ def formatDocument(userInfo):
     doc = Document("/home/pi/CivilResponsesEN.docx")
     lang = userInfo["lang"]
     if userInfo["lang"] == "es":
-        doc = Document("/home/pi/CivilReviewESTemplate.docx")
+        doc = Document("/home/pi/CivilResponsesES.docx")
 
 
     country_name = country_index_score[userInfo["countryName"]]["country_name"]
@@ -164,39 +164,48 @@ def formatDocument(userInfo):
                 paragraph.text = "For you, colonial history is [{}] to our present day.".format(q1Answer)
             else:
                 q1Answer = answer_lookup[lang]["a1"][userInfo["a1"]]
-                paragraph.text = "Usted [{}] de los testigos o los sospechosos.  Para ser un evaluador imparcial, no puede ni conocer, ni haber oído hablar de los sospechosos y testigos.".format(q1Answer)
+                paragraph.text = "Para usted, la historia colonial es [{}] para el presente.".format(q1Answer)
 
         if '[Q2 answer]' in paragraph.text:
             questionTwoAnswer = answer_lookup[lang]["a2"][userInfo["a2"]]
             paragraph.text = "You are [{}] to a person who is stateless.".format(questionTwoAnswer)
   
             if lang == "es":
-                paragraph.text = "Usted cree que los Estados Unidos está [{}] en las construcciones raciales de R.D..  Para ser un evaluador imparcial, tendría que reconocer que los Estados Unidos es una potencia imperial hegemónica cultural, económica y política.".format(questionTwoAnswer)
+                paragraph.text = "Usted es [{}] a una persona apátrida.".format(questionTwoAnswer)
 
         if '[Q4 answer]' in paragraph.text:
             questionThreeAnswer = answer_lookup[lang]["a3"][userInfo["a3"]]
+            print("paragraph text", paragraph.text)
             paragraph.text = "You [{}] that the nation-state is a violent institution.".format(questionThreeAnswer)
             if lang == "es":
-                paragraph.text = "Para usted, [{}] afecta sus condiciones materiales.  Para ser un evaluador imparcial, tendría que ver los mecanismos 'de alteridad' como herramientas de control.".format(questionThreeAnswer)
+                paragraph.text = "Usted está [{}] que el estado-nación es una institución violenta.".format(questionThreeAnswer)
 
         if '[Q3 answer]' in paragraph.text:
             questionFourAnswer = answer_lookup[lang]["sugarIntake"][userInfo["sugarIntake"]]
             paragraph.text = "Your weekly sugar intake is [{}].  To be an impartial reviewer would not consume any sugar.".format(
                 answer_lookup[lang]["sugarIntake"][userInfo["sugarIntake"]])
             if lang == "es":
-                paragraph.text = "Su consumo semanal de azúcar es [{}].  Para ser un evaluador imparcial, no debería consumir azúcar.".format(questionFourAnswer)
+                paragraph.text = "Su consumo semanal de azúcar es [Q3 answer].".format(questionFourAnswer)
 
         if '[ANSWER]' in paragraph.text:
             print("Setting Random Value 1")
             paragraph.style = 'Insertion'
 
             paragraph.text = "Your [{}] nationality ranks {}% in the Quality of Nationality index".format(country_name,country_score)
+            if lang == "es":
+                paragraph.text = "Su nacionalidad [{}] tiene un índice de {}% en el índice de calidad de la nacionalidad".format(country_name,country_score)
 
-        if '[X out of 5]' in paragraph.text:
+
+        if '[X out of 5]' in paragraph.text or '[X de 5]' in paragraph.text:
             print("Setting Random Value 1")
             paragraph.style = 'Insertion'
 
             paragraph.text = "You answered [{} out of 5] questions correctly. To be an impartial reviewer you would have to answer all the questions correctly.".format(num_correct)
+            if lang == "es":
+                paragraph.text = "Usted obtuvo [{} de 5] correctas. Para ser un evaluador imparcial debe responder correctamente todas las preguntas.".format(num_correct)
+
+
+
 
 
     doc_name = '{}.docx'.format(userInfo["userName"])
@@ -211,7 +220,7 @@ def formatDocument(userInfo):
 
 if __name__ == "__main__":
     try:
-        formatDocument({'userName': 'MERRRsRT', 'userId': 'd63142d7cf6f53a093ebc32ae1448f18', 'a1': '1', 'a2': '2',
-                       'a3': '1', 'countryName': "53", 'sugarIntake': '3', 'archivePermission': '1', 'lang': 'en'})
+        formatDocument({'userName': 'Jsasesdsica', 'userId': 'd63142d7cf6f53a093ebc32ae1448f18', 'a1': '1', 'a2': '2',
+                       'a3': '1', 'countryName': "53", 'sugarIntake': '3', 'archivePermission': '1', 'lang': 'es'})
     except Exception as e:
         print(e)
