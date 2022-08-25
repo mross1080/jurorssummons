@@ -6,7 +6,7 @@ This repository contains all the code used for the Civilian Reviewer Installatio
 
 # Key Pieces of Software 
 ### The Web App 
-The Web App is the client app that participants will interact with on their phones.  The key piece that makes this work is a library called fingerprint which is able to create a browser fingerprint.  This would typically be used for ad based tracking but we can use it here to easily know when one participant has moved from one station to another.  When a fingerprint id is generated it gets sent into a Redis DB which is the back end db for the entire system.  
+The Web App is the client app that participants will interact with on their phones.  It is a basic NodeJs Express app which ran on Heroku.  The key piece that makes this work is a library called fingerprint which is able to create a browser fingerprint.  This would typically be used for ad based tracking but we can use it here to easily know when one participant has moved from one station to another.  When a fingerprint id is generated it gets sent into a Redis DB which is the back end db for the entire system.  
 
 ### The Redis DB 
 The Redis DB is the key to the entire project (I used the free tier from redis labs), you should be able to just sign up for your own account and update the DB connection details.  Every time someone scans a QR code and the page loads the web app looks at the fingerprint of the user to see if they have registered or not, if they haven't they will be asked to go back to station 1.  If they are in the DB already the redis DB will return all their previous answers.  
